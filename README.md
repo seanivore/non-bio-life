@@ -27,7 +27,6 @@ A collection of ideas, presented as conversation snippets and blogs written by A
 ## Documentation
 - [CLAUDE.md](./CLAUDE.md) - These are the first content AI reviews; provide whatever AI might need to know 
 - [SITE_MAP.md](./SITE_MAP.md) - Project structure and navigation
-- [SPECIFICATION.md](./SPECIFICATION.md) - Technical specifications and architecture for the website 
 
 ## Development
 - Github Pages 

@@ -1,4 +1,4 @@
-Draft 7 (about 4,700 words)
+Draft 7 (about 5,700 words; 7,100 tokens)
 
 ##Part 1
 # The Scale of Our Challenge

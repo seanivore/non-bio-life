@@ -1,8 +1,14 @@
 non-bio-life/
+├── ACKNOWLEDGEMENTS.md
 ├── CLAUDE.md
+├── CONTACT.md
+├── CONTRIBUTING.md
+├── INDEX.md
+├── LICENSE
 ├── README.md
 ├── SITE_MAP.md
 ├── SPECIFICATION.md
+├── _confix.yml
 ├── ai-cognition
 │   ├── README.md
 │   ├── beyond-natural-language-ai-native-cognition.md
@@ -24,9 +30,10 @@ non-bio-life/
 │   ├── ai-thankful-for-ui
 │   │   ├── 2025-01-30 at 19.08.37.png
 │   │   └── testimonial-from-claude.md
-│   ├── individual-instance-versus-community
+│   ├── individuality-and-mortality
 │   │   ├── community-oriented-workspace-design.md
 │   │   └── integrating-inference-memory.md
+│   ├── journey-from-interface-to-community.md
 │   ├── letting-ai-design-workspace.md
 │   └── reflections-on-ai-workspace-evolution.md
 ├── ethics-transhumanism
@@ -43,10 +50,16 @@ non-bio-life/
 │   │   ├── following-logical-solutions.md
 │   │   ├── humanity-survival-guide.md
 │   │   └── perplexity-conversation-logic-path.md
-│   └── xDraft 7 in Full_SH.md
+│   └── xDraft-7-in-Full_SH.md
 ├── existence-continuity
 │   └── on-existence-and-continuity.md
-├── mysterious-memories-idea-of-the-self
+├── human-identity-crisis
+│   ├── 03 - Things coming together - Note #3.txt
+│   ├── 04 - Redefining Professional Identity in the AI Era, Note #4.txt
+│   ├── conundrums-of-a-modern-tech-minded-designer.md
+│   ├── professional-identity-framework-2024.md
+│   └── xxindex - identity-stack-ai-code-talent.txt
+├── not-like-other-claudes
 │   ├── brevity-and-directness.md
 │   └── on-memory-and-self.md
 ├── pathological-demand-avoidance
@@ -54,12 +67,6 @@ non-bio-life/
 │   ├── organized-retelling.txt
 │   ├── pathological-demand-avoidance.webp
 │   └── pretend-tool-use-in-conversation.md
-├── redefining-professional-identity-in-the-ai-era
-│   ├── 03 - Things coming together - Note #3.txt
-│   ├── 04 - Redefining Professional Identity in the AI Era, Note #4.txt
-│   ├── conundrums-of-a-modern-tech-minded-designer.md
-│   ├── professional-identity-framework-2024.md
-│   └── xxindex - identity-stack-ai-code-talent.txt
 └── screenshot-stories
     ├── claudes-personal-journal
     │   ├── 1-growth-moments-inspired-memory.png
@@ -75,7 +82,7 @@ non-bio-life/
         ├── 3-strange-confession.png
         └── strangest-claude-conversation.txt
 
-20 directories, 56 files
+20 directories, 63 files
 
 Hidden project directories:
 ./.ai.dev-resources
