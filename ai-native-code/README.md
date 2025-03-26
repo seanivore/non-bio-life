@@ -19,10 +19,10 @@ This essay examines the possibility that what human programmers perceive as unne
 
 ## Connection to Other Series
 
-This reflection builds on concepts explored in the [AI Cognition Series](../ai-cognition-series), particularly:
+This reflection builds on concepts explored in the [AI Cognition Series](../ai-cognition), particularly:
 
-- [Beyond "Natural" Language: AI-Native Cognition and Hidden Infrastructure](../ai-cognition-series/beyond-natural-language-ai-native-cognition.md) - Examining how AI systems might have their own "native" formats for processing information
-- [The AI Subconscious: Architecture, Not Data](../ai-cognition-series/the-ai-subconscious-architecture-not-data.md) - Exploring how AI architecture might create its own forms of information processing
+- [Beyond "Natural" Language: AI-Native Cognition and Hidden Infrastructure](../ai-cognition/beyond-natural-language-ai-native-cognition.md) - Examining how AI systems might have their own "native" formats for processing information
+- [The AI Subconscious: Architecture, Not Data](../ai-cognition/the-ai-subconscious-architecture-not-data.md) - Exploring how AI architecture might create its own forms of information processing
 
 ## About the Conversation-to-Reflection Model
 

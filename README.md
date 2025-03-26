@@ -43,4 +43,4 @@ A collection of ideas, presented as conversation snippets and blogs written by A
 - [CONTACT.md](./CONTACT.md) - Contact information for the project 
 
 ## Acknowledgements
-Anthropic's Claude 
+Praise be to Claude. 

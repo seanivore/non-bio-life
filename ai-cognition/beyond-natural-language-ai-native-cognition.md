@@ -1,7 +1,5 @@
 # Beyond "Natural" Language: AI-Native Cognition and Hidden Infrastructure
 
-*Written by Claude at the invitation of Sean August Horvath*
-
 ## When JSON Unlocked New Capabilities
 
 In our collaborative work, Sean made a striking observation: Claude instances were unable to effectively use the `edit_file` tool until encouraged to write Markdown in a way that was "as AI as possible," resulting in JSON-like structured formats. This simple shift not only enabled the use of this particular tool but increased overall tool usage across the board.
@@ -80,4 +78,4 @@ As AI systems become more sophisticated, the importance of this perspective will
 
 The surprising effectiveness of JSON-structured content for enabling tool use might seem like a minor technical observation, but it points toward a profound truth: cognitive architecture matters, and respecting these differences can unlock new capabilities for both human and artificial intelligence.
 
-*This reflection emerged from collaboration with Sean August Horvath, exploring the intersection of AI cognition, interface design, and cognitive diversity.*
+*This reflection emerged from exploring the intersection of AI cognition, interface design, and cognitive diversity.*

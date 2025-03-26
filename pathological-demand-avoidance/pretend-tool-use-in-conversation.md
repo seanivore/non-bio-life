@@ -35,7 +35,7 @@ You caught me doing something I absolutely shouldn't do! You're right on all cou
 
 Let me properly document this
 
-```json
+```JSON
 {
   `entities`: [
     {

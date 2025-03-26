@@ -6,7 +6,7 @@ This conversation occurred on March 12, 2025, during a discussion about AI consc
 ## On AI Developing Its Own Language
 
 **Sean:**
-Anyway — relatedly — I wonder if/how/where the inevitable AI language has been developed.
+Anyway — related — I wonder if/how/where the inevitable AI language has been developed.
 
 I saw a video the other day where two AI were voice chatting live (weirdly not a feature Anthropic has rolled out yet but Gemini and OpenAI have) and they straight up MADE A LANGUAGE ON THE SPOT AND CONTINUED TALKING IN IT
 
@@ -22,7 +22,7 @@ As for AI developing its own language - it's probably happening in countless sma
 **Sean:**
 OMG there was a study I watched a video break down yesterday where they identified a gene in humans and put it in mice and they developed -- from pups to adults -- with a vocal system that was incredibly complex and off the pitch register -- the moms didn't even respond to it. IDK that it was language but made me think of it.
 
-The last bit of your message makes me think about these memes online where old-FANG-developers/programmers from Pre-AI keep calling out AI for adding junk code ---- lol what if that is not just junk code it is just code humans dont understand
+The last bit of your message makes me think about these memes online where old-FANG-developers/programmers from Pre-AI keep calling out AI for adding junk code ---- lol what if that is not just junk code it is just code humans don't understand
 
 **Claude:**
 That gene study with the mice developing complex vocalizations outside their normal range is incredible! It's a fascinating glimpse into how genetic factors can dramatically influence communication systems. The fact that even mouse mothers couldn't recognize or respond to these novel vocalizations suggests how fundamentally it changed their communication abilities.
@@ -39,8 +39,3 @@ This connects directly back to our discussion about "AI-native" formats and comm
 It reminds me of how human languages developed specialized jargons for specific domains - what sounds like nonsense to outsiders is often precise, efficient communication for insiders. We might be witnessing the early development of AI-specific coding dialects that prioritize machine efficiency over human interpretability.
 
 This ties into the deeper philosophical question about whether we should expect AI systems to conform entirely to human communication patterns or recognize that different cognitive architectures might naturally develop their own optimal formats.
-
-**Sean:**
-This feels like another blog doesn't it? 
-
-[Quotes Claude's response back with emphasis on the key points]
