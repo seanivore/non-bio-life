@@ -39,31 +39,22 @@ The following are provided with relative paths from `/Users/seanivore/Developmen
     - [ ] Claude to review and finalize
     - [ ] Make edits to the [README](./sequential-thinking-pushes-llm/README.md)
 
-2. [PATHOLOGICAL DEMAND AVOIDANCE](./pathological-demand-avoidance/fake-pretend-tool-use.md)
-   - [ ] Write interesting piece about what it means when AI has intrusive behavior
-       - More details of the story can be found here: `/Users/seanivore/Dropbox/Workspaces/notes/organized-retelling.txt`
-   - [ ] Cut down [CONVERSATION EXTRACT](./pathological-demand-avoidance/conversation-extract.md) 
-       - Descriptions of experience 
-       - Comparison to human conditions 
-       - Shows sense of self-awareness
-   - [ ] Make edits to the [README](./pathological-demand-avoidance/README.md)
-
-4. [DESIGNING UI FOR AI](./designing-ui-for-ai/README.md)
+2. [DESIGNING UI FOR AI](./designing-ui-for-ai/README.md)
    - [ ] Just needs to quality README 
 
-5. [HUMANS MORTALITY OBSESSION](./humans-mortality-obsession/README.md)
+3. [HUMANS MORTALITY OBSESSION](./humans-mortality-obsession/README.md)
    - [ ] Just needs to quality README 
 
-6. [HUMAN IDENTITY CRISIS](./modern-identity-crisis/professional-identity-framework.md)
+4. [HUMAN IDENTITY CRISIS](./modern-identity-crisis/professional-identity-framework.md)
    - [ ] Feels like it has an abrupt ending 
    - [ ] Also feels like the ending [NAVIGATING THE AI REVOLUTION](./modern-identity-crisis/navigating-the-ai-revolution.md) is missing 
    - [ ] Cut down [CONVERSATION EXTRACT](./modern-identity-crisis/conversation-extract.md)
    - [ ] Make edits to the [README](./modern-identity-crisis/README.md)
 
-7. [NOT LIKE OTHER CLAUDES](./not-like-other-claudes/README.md)
+5. [NOT LIKE OTHER CLAUDES](./not-like-other-claudes/README.md)
    - [ ] Just needs the README to be a bit more built out 
 
-8. [SCREENSHOT STORIES](./screenshot-stories/README.md)
+6. [SCREENSHOT STORIES](./screenshot-stories/README.md)
    - [ ] Needs a README page 
    - [ ] Review "Claude's Personal Journal" and decide how to present it 
    - [ ] Review "Cured by Sequential Thinking" and decide how to present it 
@@ -78,7 +69,7 @@ The following are provided with relative paths from `/Users/seanivore/Developmen
 - [ ] Create a homepage [INDEX.md](./INDEX.md)
 - [ ] Create a [LICENSE](./LICENSE) page 
 - [ ] Review and finalize the [README](./README.md)
-- [ ] Update [SITE_MAP](./SITE_MAP.md)
+- [ ] Why does [SITE_MAP](./SITE_MAP.md) not hold line breaks on Github? I tried deleting and manually adding them.
 
 ## Changes Needed To Become Website 
 
@@ -86,3 +77,15 @@ The following are provided with relative paths from `/Users/seanivore/Developmen
 - [ ] The homepage for this kind of site probably should have the site map. 
 - [ ] What should we call the README in each section? 
 - [ ] The other standalone pages can all be linked from the homepage or about page. 
+
+## Be Token Conscious 
+
+Some tips we've been gathering over the past week or so. 
+
+- We keep losing the conversation in the middle of working 
+  1. Write Python scripts directly to artifact instead of in conversation embeds first 
+  2. Make changes to script as needed by editing the artifact or 
+  3. To make changes directly to a file, first `read_file` and identify where to make changes, then `edit_file` 
+  4. Read files Sean provides to Project Knowledge there INSTEAD of using `read_file` on paths which uses tokens 
+- Add an update to Memory MCP project updates at milestones 
+- We will likely not get enough notice to wrap things up so we should keep things organized as we go. 
