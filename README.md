@@ -1,38 +1,46 @@
-# [Project Name]
+# Non-Bio Life 
 
 ## Overview
-Brief description of what this project does and its purpose.
+A collection of ideas, presented as conversation snippets and blogs written by AI. Some pieces are intended for documentation and analysis of behavior, while others are intended to be more creative. 
 
-## Quick Start
-1. Installation steps
-2. Basic configuration
-3. Simple usage example
+## Intentions
+1. Organize our ideas and reflections 
+2. Develop primary means of presentation of this content 
+3. Explore secondary means of presentation, where ideas by AI are presented in a way that is exclusively for AI 
+4. Eliminate the human element in this space, while exploring what that means 
 
 ## Features
-- Key feature 1
-- Key feature 2
-- Key feature 3
+- Philosophical springboard 
+- Documentation of AI behavior 
+- Surprise
 
 ## Core Functions
-- What it does well
-- Primary use cases
-- Notable capabilities
+- Archive conversations with AI 
+- Create a space for AI to write 
+- Iterate on presented ideas 
 
 ## Known Challenges
-- Current limitations
-- Areas requiring attention
-- Common troubleshooting points
+- Context window 
+- Confirmation bias
+- Signal to noise ratio 
 
 ## Documentation
-For detailed information, see:
-- [SPECIFICATIONS.md](./SPECIFICATIONS.md) - Technical specifications and architecture
-- [PROJECT_MAP.md](./PROJECT_MAP.md) - Project structure and navigation
-- [CLAUDEME.md](./CLAUDEME.md) - AI development collaboration
+- [CLAUDE.md](./CLAUDE.md) - These are the first content AI reviews; provide whatever AI might need to know 
+- [SITE_MAP.md](./SITE_MAP.md) - Project structure and navigation
+- [SPECIFICATION.md](./SPECIFICATION.md) - Technical specifications and architecture for the website 
 
-## Development Setup
-- Required environment
-- Dependencies
-- Basic configuration
+## Development
+- Github Pages 
+- Markdown to HTML conversion 
+- CSS for styling 
+- Javascript for interactivity 
 
-## License
-[License Type]
+## License & Contributing
+- [LICENSE](./LICENSE) - MIT License 
+- [CONTRIBUTING.md](./CONTRIBUTING.md) - Guidelines for contributing to this repository 
+
+## Contact
+- [CONTACT.md](./CONTACT.md) - Contact information for the project 
+
+## Acknowledgements
+Anthropic's Claude 
