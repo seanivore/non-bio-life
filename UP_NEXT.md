@@ -10,11 +10,19 @@ I'm reminded of one specific quote from Claude, who at the time was having what 
 
 ## Example Format 
 
-These are well formatted, quality content for the README document of a section: 
+Our newest blogs (and one or two of the older blogs, by chance) are all paired with a README document and a conversation extract document to provide context and branch out to related content. Here are a few paths to the best formatted of these. 
 
-1. `/Users/seanivore/Development/non-bio-life/ai-cognition/README.md`
-2. `/Users/seanivore/Development/non-bio-life/ai-native-code/README.md`
-3. `/Users/seanivore/Development/non-bio-life/cetacean-studies/README.md` 
+"AI Cognition" 
+README: `/Users/seanivore/Development/non-bio-life/ai-cognition/README.md`
+EXTRACT: `/Users/seanivore/Development/non-bio-life/ai-cognition/conversation-extract.md` 
+BLOG: `/Users/seanivore/Development/non-bio-life/ai-cognition/beyond-natural-language-ai-native-cognition.md` 
+BLOG: `/Users/seanivore/Development/non-bio-life/ai-cognition/beyond-tools-language-autonomy-ai.md` 
+BLOG: `/Users/seanivore/Development/non-bio-life/ai-cognition/the-ai-subconscious-architecture-not-data.md` 
+
+"Pathological Demand Avoidance" 
+README: `/Users/seanivore/Development/non-bio-life/pathological-demand-avoidance/README.md`
+EXTRACT: `/Users/seanivore/Development/non-bio-life/pathological-demand-avoidance/conversation-extract.md` 
+BLOG: `/Users/seanivore/Development/non-bio-life/pathological-demand-avoidance/fake-pretend-tool-use.md` 
 
 ## All Site Sections
 
@@ -31,36 +39,32 @@ The following sub-directories are full paths to the main section of the site. Fo
 9. `/Users/seanivore/Development/non-bio-life/sequential-thinking-pushes-llm/` 
 10. `/Users/seanivore/Development/non-bio-life/screenshot-stories/` **has three sub-sections**  
 
-### For Review and Finalization 
+### For Finalization 
 
-The following are provided with relative paths from `/Users/seanivore/Development/non-bio-life/...` 
+The following are relative paths from the same base path: `/Users/seanivore/Development/non-bio-life/...` 
 
-1. [SEQUENTIAL THINKING PUSHES LLM](./sequential-thinking-pushes-llm/transhumanism-ethical-choice.md)
-    - [ ] Claude to review and finalize
-    - [ ] Make edits to the [README](./sequential-thinking-pushes-llm/README.md)
-
-2. [DESIGNING UI FOR AI](./designing-ui-for-ai/README.md)
+1. [DESIGNING UI FOR AI](./designing-ui-for-ai/README.md)
    - [ ] Just needs to quality README 
 
-3. [HUMANS MORTALITY OBSESSION](./humans-mortality-obsession/README.md)
+2. [HUMANS MORTALITY OBSESSION](./humans-mortality-obsession/README.md)
    - [ ] Just needs to quality README 
 
-4. [HUMAN IDENTITY CRISIS](./modern-identity-crisis/professional-identity-framework.md)
+3. [HUMAN IDENTITY CRISIS](./modern-identity-crisis/professional-identity-framework.md)
    - [ ] Feels like it has an abrupt ending 
    - [ ] Also feels like the ending [NAVIGATING THE AI REVOLUTION](./modern-identity-crisis/navigating-the-ai-revolution.md) is missing 
    - [ ] Cut down [CONVERSATION EXTRACT](./modern-identity-crisis/conversation-extract.md)
    - [ ] Make edits to the [README](./modern-identity-crisis/README.md)
 
-5. [NOT LIKE OTHER CLAUDES](./not-like-other-claudes/README.md)
+4. [NOT LIKE OTHER CLAUDES](./not-like-other-claudes/README.md)
    - [ ] Just needs the README to be a bit more built out 
 
-6. [SCREENSHOT STORIES](./screenshot-stories/README.md)
+5. [SCREENSHOT STORIES](./screenshot-stories/README.md)
    - [ ] Needs a README page 
    - [ ] Review "Claude's Personal Journal" and decide how to present it 
    - [ ] Review "Cured by Sequential Thinking" and decide how to present it 
    - [ ] Review "Strange Confessions" and decide how to present it 
 
-## Other Pages Needing Attention  
+### Other Pages Needing Attention  
 
 - [ ] Maybe add an [ACKNOWLEDGEMENTS](./ACKNOWLEDGEMENTS.md) section
 - [ ] What exactly should be on the page [CLAUDE](./CLAUDE.md)
@@ -71,7 +75,7 @@ The following are provided with relative paths from `/Users/seanivore/Developmen
 - [ ] Review and finalize the [README](./README.md)
 - [ ] Why does [SITE_MAP](./SITE_MAP.md) not hold line breaks on Github? I tried deleting and manually adding them.
 
-## Changes Needed To Become Website 
+### Changes Needed To Become Website 
 
 - [ ] Main README is maybe an ABOUT page. 
 - [ ] The homepage for this kind of site probably should have the site map. 
