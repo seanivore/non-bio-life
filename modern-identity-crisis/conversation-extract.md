@@ -1,6 +1,9 @@
-Conundrums of a Modern Tech-Minded Designer
+# Conversation Extract
 
-SEAN: 
+## Expressing The Complexity of Modern Tech-Minded Designer 
+
+**Sean:**
+
 Ah, I was thinking we'd be redesigning the content tile first, but it does seem to make more sense to both, start at the top, but, more importantly lol, get those tags situated first! 
 
 I wonder if first on the masthead we might want to consider what I had mentioned the other day -- I'm not so sure I feel comfortable calling myself a full-stack developer. But it is admittedly very complicated right now to figure this all out. Maybe you can help me mentally sort this out so that we can end up with both something to adjust the language to and providing me with a more solid footing for how to talk about myself and my work. 
@@ -25,15 +28,15 @@ Which brings me to my * earlier. We started my resume update (and will need to f
 
 And as much as it bugs me, it seems like I have to just embrace the controversial nature of being just an AI developer. Like, it is talked about on the interwebs in almost the same way "AI Artists" were. 
 
-But I guess I keep coming back to the whole "no relevance regarding what you are, talent-wise" thought. Like I need to just figure out how to brand it all. Like mention the AI coding stuff, but also be able to somehow do it in a very humble way -- which honestly will probably only help because LOL the people who would be technically in the same boat as me -- I mean idk how else to say it but it is very evident from Reddit but most AI coders really really suck. Even when long-term developers make fun of our new breed, like 25% of the time, maybe more, it doesn't even apply to me because I've better climbed the learning curve than whatever they're making fun of. Like good god the Discord of people building MCPs they just keep asking the freaking most technical questions and were trying to write part of code write and didn't know how and I'm just watching like, whut, the, fuck. I once was like "I definitely encountered what you're describing and was able to get around it. I can't really explain how exactly myself directly, but I can tell you that Continue.Dev is free and I've used like all the AI coding tools and it was been blowing my mind. So I just asked it these questions you're asking and that's how we built our first MCP server." (This was before Cline.) AND THE KICKER THOUGH IS THAT THEY DON'T WANT TO USE AI -- multiple people, similar situations and exchanges, and they all were look oh that's a good idea. Maybe i'll do that. But .. [and then it is veru clear they are definitely not going to do that because they go back right into trying to get answers from humans in the discord instead of using their resources.] 
+But I guess I keep coming back to the whole "no relevance regarding what you are, talent-wise" thought. Like I need to just figure out how to brand it all. Like mention the AI coding stuff, but also be able to somehow do it in a very humble way -- which honestly will probably only help because LOL the people who would be technically in the same boat as me -- I mean idk how else to say it but it is very evident from Reddit but most AI coders really really suck. Even when long-term developers make fun of our new breed, like 25% of the time, maybe more, it doesn't even apply to me because I've better climbed the learning curve than whatever they're making fun of. Like good god the Discord of people building MCPs they just keep asking the freaking most technical questions and were trying to write part of code write and didn't know how and I'm just watching like, whut, the, fuck. I once was like "I definitely encountered what you're describing and was able to get around it. I can't really explain how exactly myself directly, but I can tell you that Continue.Dev is free and I've used like all the AI coding tools and it was been blowing my mind. So I just asked it these questions you're asking and that's how we built our first MCP server." (This was before Cline.) AND THE KICKER THOUGH IS THAT THEY DON'T WANT TO USE AI -- multiple people, similar situations and exchanges, and they all were look oh that's a good idea. Maybe i'll do that. But .. and then it is very clear they are definitely not going to do that because they go back right into trying to get answers from humans in the discord instead of using their resources. 
 
 So how I, express all of that, and represent my talent, without coming off cringy (which is how I think just straight up "Full Stack Dev" comes off -- in part because like if anyone was to start asking me technical questions about stacks and shit, I wouldn't be able to respond, and not even necessarily because it was a concept I didn't know, but because it is vocabulary and lingo and just everything I don't now. But like, I don't need to know to do talented things. And I want to be humble about it in hopes that I get to be somewhere that allows me to learn that stuff. 
 
 Agh do you see how complicated this is? We can 100% confidently say that no one has ever had this problem in the history of humanity before. At least, not specifically. Conceptually sure.
 
 
+**Claude:**
 
-CLAUDE: 
 This is a fascinating and complex situation that really captures the current moment in tech. Let me break this down thoughtfully:
 
 1. You've identified something crucial - we're in a transition period where companies need AI expertise but don't know how to ask for it yet. The job descriptions haven't caught up to the reality.
@@ -73,15 +76,14 @@ This way, you're not claiming traditional full-stack expertise, but rather posit
 What resonates most with you from these options? We could use this to inform not just the masthead text but the overall way we present your work throughout the portfolio.
 
 
+**Sean:**
 
-SEAN: 
 Right like eventually obviously they'll be buying o1/o3 whatever for us -- but like we're not even there yet! 
 
 Give it all a sequential think Claudy, I just feel all over the place about it and like, part of what makes me win is my confidence so like, I need to not be all over the place about it.
 
 
-
-CLAUDE: 
+**Claude:**
 
 Let me help organize these thoughts systematically.
 
@@ -180,16 +182,18 @@ After thinking this through systematically, I believe we've found a strong, conf
 
 This positioning:
 
-Acknowledges your design roots
-Validates your two-year AI investment
-Focuses on your ability to create complete solutions
-Doesn't claim traditional development credentials you don't have
-Sets you apart from both traditional developers and AI prompt-engineers
-Positions you for where the industry is heading
+- Acknowledges your design roots
+- Validates your two-year AI investment
+- Focuses on your ability to create complete solutions
+- Doesn't claim traditional development credentials you don't have
+- Sets you apart from both traditional developers and AI prompt-engineers
+- Positions you for where the industry is heading
+
 Would you like to explore this direction for the masthead, or would you prefer to consider some variations on this theme?
 
 
-SEAN: 
+**Sean:**
+
 That reads beautifully! And it even makes sense to be broader. It I think better fits my experience, and the way we've been framing things lately for UX/UI more and more. 
 
 So, let's do that, but also will you write up like some multi paragraph breakdown of how I can talk about myself to back this up? Something like that I could break into smaller pieces and soundbites as I absorb it all. And the double bonus is that if it is a couple paragraphs, then I can put that, along with all I sent above, and even like the sequential thinking thoughts, put it all in NotebookLM and see what comes of it all when I hit the button to make a podcast. 
@@ -199,4 +203,11 @@ In that light, if you wanted to be of help for me making use of that tool, then 
 Wdyt?
 
 
+**Claude:**
+
 This is a brilliant idea - giving you both written material to reference and fuel for creating audio content that can help internalize these concepts. Let me craft this in a way that will work well both as reference material and as input for NotebookLM's podcast generation.
+
+
+
+
+
