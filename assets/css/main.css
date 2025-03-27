@@ -10,18 +10,16 @@
   --container-width: 900px;
 }
 
-/* Title handling - ensure each page has exactly one visible title */
-/* If there's no page-title element, show the first h1 in content */
-.page-content h1:first-child {
-  display: block;
+/* Simple title handling */
+.page-title {
   margin-top: 0.5em;
-  margin-bottom: 0.5em;
+  margin-bottom: 1em;
   font-size: 2.5rem;
+  font-weight: bold;
 }
 
-/* If there are both .page-title and first h1, hide the first h1 */
-.page-title + .page-content h1:first-child,
-.post-title + .post-content h1:first-child {
+/* Hide all h1 tags in content */
+.site-content h1 {
   display: none;
 }
 

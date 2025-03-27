@@ -7,23 +7,8 @@
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <style>
-    /* Title handling - ensure each page has exactly one visible title */
-    /* If there's no page-title element, show the first h1 in content */
-    .page-content h1:first-child {
-      display: block;
-      margin-top: 0.5em;
-      margin-bottom: 0.5em;
-      font-size: 2.5rem;
-    }
-    
-    /* If there are both .page-title and first h1, hide the first h1 */
-    .page-title + .page-content h1:first-child,
-    .post-title + .post-content h1:first-child {
-      display: none;
-    }
-    
-    /* If site-header contains the title, hide the first h1 only if it duplicates */
-    .site-header .site-title:contains('{{ page.title }}') ~ .site-content h1:first-child:contains('{{ page.title }}') {
+    /* Simple approach - hide all h1 tags in content */
+    .site-content h1 {
       display: none;
     }
   </style>
@@ -43,6 +28,7 @@
     </header>
 
     <main class="site-content">
+      <h1 class="page-title">{{ page.title }}</h1>
       {{ content }}
     </main>
 
