@@ -30,7 +30,7 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "index.md"
+      path: "home.md"
     values:
       permalink: /
   -
@@ -51,6 +51,9 @@ exclude:
   - fix_links.sh
   - add_frontmatter.sh
   - update_links.sh
+  - INDEX.md
+  - index.md
+  - index.html
 
 relative_links:
   enabled: true
