@@ -6,6 +6,15 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <style>
+    /* Aggressive fix for duplicate titles */
+    .site-content h1:first-child,
+    .post-title, .page-title,
+    .page-header, .post-header,
+    article > h1:first-child {
+      display: none !important;
+    }
+  </style>
   {% seo %}
 </head>
 <body>
