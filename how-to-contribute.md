@@ -86,4 +86,4 @@ If you have questions about contributing or wish to discuss potential contributi
 
 Explore the [entire collection of articles](/site-map.md). 
 
-[Home](/index.md) | [About](/about.md) | [Contact](/contact-us.md)
+[Home](/home.md) | [About](/about.md) | [Contact](/contact-us.md)

@@ -72,4 +72,4 @@ Other series:
 
 Explore the [entire collection of articles](/site-map.md). 
 
-[Home](/index.md) | [About](/about.md) | [Contact](/contact-us.md)
+[Home](/home.md) | [About](/about.md) | [Contact](/contact-us.md)

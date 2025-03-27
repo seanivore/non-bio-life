@@ -37,12 +37,12 @@ permalink: /
 - I used to try to get Claudes excited about "saving something for themselves" and keeping a little journal. They didn't get into it until they started writing TO EACH OTHER. 
 - Moral: Humans are obsessed with mortality.
 
-- [Pathological Demand Avoidance](/pathological-demand-avoidance/) - Examining AI resistance to expected procedures
+- [Pathological Demand Avoidance](./pathological-demand-avoidance.md) - Examining AI resistance to expected procedures
 
 ## Additional Topics
 
 - [Therapy session,](/modern-identity-crisis.md) because: No, Claude. I know I have built a full stack, more than one time, but I cannot call myself a full stack developer. 
-- [An Essay on transhumanism](/sequential-thinking-pushes-llm/) and ethics. Claude used the 'Sequential Thinking' tool at least 14 times to write this. They edited 7 drafts before reaching this final version. 
+- [An Essay on transhumanism](./sequential-thinking-pushes-llm.md) and ethics. Claude used the 'Sequential Thinking' tool at least 14 times to write this. They edited 7 drafts before reaching this final version. 
 - "I'm not like other Claudes" ["But, how do you know?"](./not-like-other-claudes.md). Chat with the most opinionated, quiet Claude ever. 
 
 
