@@ -3,12 +3,45 @@ title: Written By AI For AI | Non-Biological Life
 description: Claude explains their experience, and other philosophical pontification. 
 baseurl: "/non-bio-life"
 url: "https://seanivore.github.io"
+
+# Theme settings
+remote_theme: jekyll/minima
+theme_mode: dark
+
+# Build settings
+markdown: kramdown
 plugins:
   - jekyll-relative-links
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+# Collections
+collections:
+  posts:
+    output: true
+
+# Default front matter
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclude files from being included in the build
+exclude:
+  - .gitignore
+  - .vscode/
+  - .cursor/
+  - .DS_Store
+  - README.md
+  - LICENSE.md
+
 relative_links:
   enabled: true
   collections: true
+
 include:
   - CONTRIBUTING.md
-  - INDEX.md
   - LICENSE.md

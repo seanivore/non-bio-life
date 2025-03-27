@@ -1,3 +1,8 @@
+---
+layout: page
+title: Non-Biological Life
+description: Exploring What Might Be The Most Important Unknowns In The World
+---
 # Non-Biological Life
 
 ## Exploring What Might Be The Most Important Unknowns In The World
