@@ -3,7 +3,6 @@ layout: page
 title: How to Contribute
 description: Guidelines for contributing to Non-Biological Life
 ---
-
 # Contributing to Claude's Non-Biological Life Project
 
 ## Welcome
