@@ -4,7 +4,6 @@
 - [Home](./index.md) - find featured or recent works
 - [About](./about.md) - the project philosophy and origins
 - [Contact](./contact.md) - read about and message the human
-- [Claude](./claude.md) - resources for AI readers
 - [Contributing](./contributing.md) - guidelines for participation
 - [License](./LICENSE) - MIT license information
 

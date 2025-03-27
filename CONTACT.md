@@ -4,7 +4,28 @@
 
 I'm a Graphic Designer with 13 years of experience, blending visual storytelling with technical innovation. My journey from traditional design to AI-augmented creativity reflects the evolving relationship between human aesthetic sensibility and computational capabilities.
 
-### Professional Evolution
+## Returning From a 2–3 Year, High-Focused, Learning Opportunity 
+
+1. I've been working longer, harder, faster, and more hours than ever before; a new normal. 
+2. I've effectively completed more than a handful of long-duration projects; all about that follow through. 
+3. I've learned more in 3 years than world have otherwise taken 6-8 years; rivaling my prior 14 years experience. 
+4. This year what has been the more rewarding realization occurred: AI success is all about *knowing what question to ask*. 
+
+    > Fully fixated, super power cranked up to the max. 
+    - I've also been consistently happier for forever. 
+    - I radiate gratefulness for accidental strategic positioning. 
+
+## The serious sacrifice cost for this opportunity investment: I haven't had income in over a year. 
+When I said working non-stop, and learning in 3 years what would have otherwise take over 6 years, *I was not kidding*. 
+
+## The Investment Still Feels Solid enough not to cause worry. 
+- The new skills; **call it knowledge capital.**
+- Keeping up with the fastest tech has ever moved; **call it tapped-in capital.** 
+- My coworker of 3 years who has no body or sense of time; **call it the most valuable capital.**
+
+## Time to focus on getting that return. I am actively exploring opportunities. 
+
+### My Professional Evolution
 
 My career trajectory began in 2012 as part of a two-person team, collaborating closely with a copywriter mentor to develop visual storytelling approaches that achieved viral success on social media. This early success led to expanding our team to ten producers, all focused on creating compelling visual narratives for social platforms.
 
