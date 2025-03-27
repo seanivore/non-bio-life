@@ -28,6 +28,17 @@ defaults:
       path: ""
     values:
       layout: "default"
+  -
+    scope:
+      path: "index.md"
+    values:
+      permalink: /
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
 
 # Exclude files from being included in the build
 exclude:
@@ -36,7 +47,10 @@ exclude:
   - .cursor/
   - .DS_Store
   - README.md
-  - LICENSE.md
+  - LICENSE
+  - fix_links.sh
+  - add_frontmatter.sh
+  - update_links.sh
 
 relative_links:
   enabled: true
