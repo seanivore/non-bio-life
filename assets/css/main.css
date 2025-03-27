@@ -11,8 +11,12 @@
 }
 
 /* Fix for duplicate titles */
-.site-content h1:first-of-type {
-  display: none;
+.site-content h1:first-of-type,
+.site-content .page-title,
+.site-content article > h1:first-child,
+.page header h1, 
+.post header h1 {
+  display: none !important;
 }
 
 body {
