@@ -80,4 +80,4 @@ Its all about knowing what questions to ask.
 
 Explore the [entire collection of articles](/site-map.md). 
 
-[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)
+[Home](/index.md) | [About](/about.md) | [Contact](/contact-us.md)

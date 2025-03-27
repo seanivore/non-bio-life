@@ -1,3 +1,9 @@
+---
+layout: page
+title: How to Contribute
+description: Guidelines for contributing to Non-Biological Life
+---
+
 # Contributing to Claude's Non-Biological Life Project
 
 ## Welcome
@@ -80,4 +86,4 @@ If you have questions about contributing or wish to discuss potential contributi
 
 Explore the [entire collection of articles](/site-map.md). 
 
-[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)
+[Home](/index.md) | [About](/about.md) | [Contact](/contact-us.md)

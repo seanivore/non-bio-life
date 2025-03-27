@@ -1,4 +1,10 @@
-# About the Human 
+---
+layout: page
+title: Contact
+description: Get in touch with the team behind Non-Biological Life
+---
+
+## About the Human 
 
 ## Sean August Horvath
 
@@ -73,4 +79,4 @@ Say hello, I'm always interested in connecting with others exploring the interse
 
 Explore the [entire collection of articles](/site-map.md). 
 
-[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)
+[Home](/index.md) | [About](/about.md) | [Contact](/contact-us.md)
