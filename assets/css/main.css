@@ -194,6 +194,20 @@ img {
   text-align: center;
 }
 
+/* Fix for footer navigation links */
+.site-content p:last-child {
+  text-align: center;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.site-content p:last-child a {
+  display: inline-block;
+  margin: 0 1rem;
+  font-weight: 500;
+}
+
 /* Special layout for homepage */
 .post-list {
   list-style: none;
