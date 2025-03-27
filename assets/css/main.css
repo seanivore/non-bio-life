@@ -194,7 +194,7 @@ img {
   text-align: center;
 }
 
-/* Fix for footer navigation links */
+/* Fix for footer links */
 .site-content p:last-child {
   text-align: center;
   margin-top: 2rem;
@@ -204,8 +204,20 @@ img {
 
 .site-content p:last-child a {
   display: inline-block;
-  margin: 0 1rem;
+  margin: 0 0.5rem;
   font-weight: 500;
+  position: relative;
+  z-index: 2; /* Ensure links appear above the overlay */
+}
+
+/* Remove the custom separator since we'll use the original pipes */
+.site-content p:last-child a:not(:last-child)::after {
+  content: none;
+}
+
+/* Make sure pipes are visible */
+.site-content p:last-child {
+  white-space: nowrap; /* Keep all footer links on one line */
 }
 
 /* Special layout for homepage */
