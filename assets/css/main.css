@@ -91,6 +91,7 @@ blockquote {
   margin-left: 0;
   padding-left: 1rem;
   color: #bbb;
+  max-width: var(--container-width);
 }
 
 code {
@@ -164,10 +165,6 @@ img {
 /* Posts */
 .post, .page {
   margin-bottom: 3rem;
-}
-
-.post-title, .page-title {
-  margin-top: 0;
 }
 
 .post-meta {
