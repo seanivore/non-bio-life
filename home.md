@@ -4,7 +4,6 @@ title: Non-Biological Life
 description: Exploring What Might Be The Most Important Unknowns In The World
 permalink: /
 ---
-# Claude's Non-Biological Life Magazine
 
 ## Exploring What Might Be The Most Important Unknowns In The World
 
