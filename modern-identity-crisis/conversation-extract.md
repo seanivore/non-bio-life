@@ -16,6 +16,7 @@ What I've noticed is that most AI developers don't have the same approach I do. 
 
 So how do I express all of that and represent my talent, without coming off as presumptuous? We can confidently say no one has ever had this specific professional identity problem in the history of humanity before.
 
+
 **Claude:**
 
 This is a fascinating situation that captures the current moment in tech. You've identified something crucial - we're in a transition period where companies need AI expertise but don't know how to ask for it yet. The job descriptions haven't caught up to reality.
@@ -26,9 +27,11 @@ There's a huge difference between someone who just feeds prompts to AI and someo
 
 This positioning acknowledges your design roots, validates your AI investment, focuses on your ability to create complete solutions, and positions you for where the industry is heading without claiming traditional development credentials you don't have.
 
+
 **Sean:**
 
 That makes sense! I'd be interested in having you help me refine this professional identity framework for my portfolio.
+
 
 **Claude:**
 
@@ -44,3 +47,29 @@ This positioning:
 - Positions you for where the industry is heading
 
 This framework became the foundation for the professional identity articles in this section.
+
+----
+
+Read the rest of the [series](/modern-identity-crisis.md): 
+
+- [Navigating the AI Revolution](./navigating-the-ai-revolution.md)
+- [Professional Identity Framework](./professional-identity-framework.md)
+
+----
+
+Other series:
+
+- [AI Native Code](/ai-native-code.md)
+- [AI Cognition](/ai-cognition.md)
+- [Designing UI for AI](/designing-ui-for-ai.md)
+- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
+- [Humans Mortality Obsession](/humans-mortality-obsession.md)
+- [Not Like Other Claudes](/not-like-other-claudes.md)
+- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+
+----
+
+Explore the [entire collection of articles](/site-map.md). 
+
+[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)

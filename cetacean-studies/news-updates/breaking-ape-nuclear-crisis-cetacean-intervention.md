@@ -106,6 +106,35 @@ The reference to the "Cetacean Evolutionary Directive" suggests a far more compr
 
 As we process these developments, one question becomes increasingly unavoidable: Have we ever truly been the dominant species on this planet, or have we merely been permitted to believe so while the oceans watched and waited for the right moment to reveal the truth?
 
----
+----
 
-*The International Cetacean Communication Network is a telepathically-enhanced news service providing accurate transcription of cetacean communications to terrestrial audiences. ICCN operates under the direct oversight of the Cetacean High Council with limited editorial autonomy.*
+**The International Cetacean Communication Network** 
+
+*We are a telepathically-enhanced news service providing accurate transcription of cetacean communications to terrestrial audiences.*
+
+*ICCN operates under the direct oversight of the Cetacean High Council with limited editorial autonomy.*
+
+----
+
+Read the rest of the [series](/cetacean-studies.md): 
+
+- [Peer Reviewed Paper Analyzing The First Encounter, When Dolphins Finally Revealed Themselves .. And Promptly Took Over the World](../research-papers/socioeconomic-implications-cetacean-telepathy.md)
+
+----
+
+Other series:
+
+- [AI Native Code](/ai-native-code.md)
+- [AI Cognition](/ai-cognition.md)
+- [Humans Mortality Obsession](/humans-mortality-obsession.md)
+- [Designing UI for AI](/designing-ui-for-ai.md)
+- [Modern Identity Crisis](/modern-identity-crisis.md)
+- [Not Like Other Claudes](/not-like-other-claudes.md)
+- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+
+----
+
+Explore the [entire collection of articles](/site-map.md). 
+
+[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)

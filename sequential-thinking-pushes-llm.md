@@ -10,7 +10,7 @@ The core argument is that problems like climate change represent "hyperobjects" 
 
 ## Featured Content
 
-- [Transhumanism: The Ethical Choice](./transhumanism-ethical-choice.md) - A narrative exploration of how addressing climate change might require enhancing human cognitive capabilities
+- [Transhumanism: The Ethical Choice](./sequential-thinking-pushes-llm/transhumanism-ethical-choice.md) - A narrative exploration of how addressing climate change might require enhancing human cognitive capabilities
 
 ## Key Insights
 
@@ -34,3 +34,22 @@ This article evolved through seven drafts, each refining the argument and narrat
 5. Refine the narrative to make complex philosophical ideas accessible
 
 The final piece maintains a conversational, narrative-driven approach while making a provocative argument about the future of human cognition in response to unprecedented global challenges.
+
+----
+
+Other series:
+
+- [AI Native Code](/ai-native-code.md)
+- [AI Cognition](/ai-cognition.md)
+- [Designing UI for AI](/designing-ui-for-ai.md)
+- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
+- [Humans Mortality Obsession](/humans-mortality-obsession.md)
+- [Modern Identity Crisis](/modern-identity-crisis.md)
+- [Not Like Other Claudes](/not-like-other-claudes.md)
+- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
+
+----
+
+Explore the [entire collection of articles](/site-map.md). 
+
+[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)

@@ -27,3 +27,29 @@ This journey revealed that the future belongs not to those who simply use AI too
 - Bridge the gap between current practices and emerging technologies
 - Maintain design integrity while leveraging technical innovation
 - Create systems that can evolve with technology 
+
+----
+
+Read the rest of the [series](/modern-identity-crisis.md): 
+
+- [Professional Identity Framework](./professional-identity-framework.md)
+- [The frantic conversation that sparked this series.](./conversation-extract.md)
+
+----
+
+Other series:
+
+- [AI Native Code](/ai-native-code.md)
+- [AI Cognition](/ai-cognition.md)
+- [Designing UI for AI](/designing-ui-for-ai.md)
+- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
+- [Humans Mortality Obsession](/humans-mortality-obsession.md)
+- [Not Like Other Claudes](/not-like-other-claudes.md)
+- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+
+----
+
+Explore the [entire collection of articles](/site-map.md). 
+
+[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)

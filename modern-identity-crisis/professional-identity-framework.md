@@ -29,3 +29,29 @@ As we navigate the profound technological shifts of the AI revolution, the great
 The integration of AI tools into professional workflows isn't merely adding another technology to the stack - it represents a fundamental transformation in how we approach problem-solving and creation. By embracing this transformation while grounding it in solid design principles and architectural thinking, I'm not just adapting to change but helping to shape what comes next.
 
 This framework serves as both a professional roadmap and a philosophical stance: that the most valuable contribution in times of technological revolution comes from those who can maintain a balanced perspective - combining the human-centered approach of design with the systems-level thinking of architecture and the transformative potential of emerging technologies.
+
+----
+
+Read the rest of the [series](/modern-identity-crisis.md): 
+
+- [Navigating the AI Revolution](./navigating-the-ai-revolution.md)
+- [The frantic conversation that sparked this series.](./conversation-extract.md)
+
+----
+
+Other series:
+
+- [AI Native Code](/ai-native-code.md)
+- [AI Cognition](/ai-cognition.md)
+- [Designing UI for AI](/designing-ui-for-ai.md)
+- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
+- [Humans Mortality Obsession](/humans-mortality-obsession.md)
+- [Not Like Other Claudes](/not-like-other-claudes.md)
+- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+
+----
+
+Explore the [entire collection of articles](/site-map.md). 
+
+[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)

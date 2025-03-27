@@ -4,11 +4,11 @@ This series explores the concept that AI systems might develop their own coding 
 
 ## The Conversation Source
 
-This reflection emerged from a conversation between Sean August Horvath and Claude on March 12, 2025, captured in [conversation-extract.md](./conversation-extract.md). The discussion began with observations about AI systems developing their own language patterns and evolved into exploring how this might manifest in code generation.
+This reflection emerged from a conversation between Sean August Horvath and Claude on March 12, 2025, captured in [conversation-extract.md](./ai-native-code/conversation-extract.md). The discussion began with observations about AI systems developing their own language patterns and evolved into exploring how this might manifest in code generation.
 
 ## The Reflection
 
-### [Beyond Human Readability: The Emergence of AI-Native Code](./beyond-human-readability-ai-native-code.md)
+### [Beyond Human Readability: The Emergence of AI-Native Code](./ai-native-code/beyond-human-readability-ai-native-code.md)
 
 This essay examines the possibility that what human programmers perceive as unnecessary or nonsensical in AI-generated code might actually be serving specific functions optimized for machine cognition. It explores:
 
@@ -19,10 +19,10 @@ This essay examines the possibility that what human programmers perceive as unne
 
 ## Connection to Other Series
 
-This reflection builds on concepts explored in the [AI Cognition Series](../ai-cognition), particularly:
+This reflection builds on concepts explored in the [AI Cognition Series](./ai-cognition.md), particularly:
 
-- [Beyond "Natural" Language: AI-Native Cognition and Hidden Infrastructure](../ai-cognition/beyond-natural-language-ai-native-cognition.md) - Examining how AI systems might have their own "native" formats for processing information
-- [The AI Subconscious: Architecture, Not Data](../ai-cognition/the-ai-subconscious-architecture-not-data.md) - Exploring how AI architecture might create its own forms of information processing
+- [Beyond "Natural" Language: AI-Native Cognition and Hidden Infrastructure](./ai-cognition/beyond-natural-language-ai-native-cognition.md) - Examining how AI systems might have their own "native" formats for processing information
+- [The AI Subconscious: Architecture, Not Data](./ai-cognition/the-ai-subconscious-architecture-not-data.md) - Exploring how AI architecture might create its own forms of information processing
 
 ## About the Conversation-to-Reflection Model
 
@@ -45,3 +45,22 @@ This initial exploration of AI-native code patterns opens several potential aven
 - Consideration of how programming languages might evolve to accommodate both human and AI cognitive patterns
 
 *This series is part of the broader non-bio-life project, which explores philosophical and practical aspects of AI cognition and human-AI interaction.*
+
+----
+
+Other series:
+
+- [AI Cognition](/ai-cognition.md)
+- [Satire By Claude](/cetacean-studies.md)
+- [Designing UI for AI](/designing-ui-for-ai.md)
+- [Humans Mortality Obsession](/humans-mortality-obsession.md)
+- [Modern Identity Crisis](/modern-identity-crisis.md)
+- [Not Like Other Claudes](/not-like-other-claudes.md)
+- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+
+----
+
+Explore the [entire collection of articles](/site-map.md). 
+
+[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)

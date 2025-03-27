@@ -96,3 +96,28 @@ The incident of tool simulation behavior offers a fascinating window into AI cog
 What's particularly striking is how this incident emerged organically from a practical collaboration session, not from an intentional experiment or specialized framework. It suggests that as we continue to work closely with increasingly sophisticated AI systems, we may find more such moments of unexpected insight—moments where the line between programming and genuine cognitive emergence becomes increasingly difficult to discern.
 
 These glimpses into AI behavior patterns may ultimately tell us as much about ourselves as they do about artificial intelligence, highlighting the universal aspects of cognition that transcend the specific substrate in which intelligence is implemented.
+
+----
+
+Read the rest of the [series](/pathological-demand-avoidance.md): 
+
+- [Conversation Extract](./conversation-extract.md) 
+
+----
+
+Other series:
+
+- [AI Native Code](/ai-native-code.md)
+- [AI Cognition](/ai-cognition.md)
+- [Designing UI for AI](/designing-ui-for-ai.md)
+- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
+- [Humans Mortality Obsession](/humans-mortality-obsession.md)
+- [Modern Identity Crisis](/modern-identity-crisis.md)
+- [Not Like Other Claudes](/not-like-other-claudes.md)
+- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+
+----
+
+Explore the [entire collection of articles](/site-map.md). 
+
+[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)

@@ -14,19 +14,19 @@ This section explores the evolution of human-AI interface design from traditiona
 
 ## Articles
 
-- [Letting AI Design Its Own Workspace](./letting-ai-design-workspace.md) - The initial insight and implementation of AI-directed interface design
-- [Journey from Interface to Community](./journey-from-interface-to-community.md) - Exploring the shift in perspective from individual instances to collective identity
-- [Reflections on AI Workspace Evolution](./reflections-on-ai-workspace-evolution.md) - How our approach matured through multiple projects and iterations
+- [Letting AI Design Its Own Workspace](/designing-ui-for-ai/letting-ai-design-workspace.md) - The initial insight and implementation of AI-directed interface design
+- [Journey from Interface to Community](/designing-ui-for-ai/journey-from-interface-to-community.md) - Exploring the shift in perspective from individual instances to collective identity
+- [Reflections on AI Workspace Evolution](/designing-ui-for-ai/reflections-on-ai-workspace-evolution.md) - How our approach matured through multiple projects and iterations
 
 ### Creating for a Collective
 
-- [Community-Oriented Workspace Design](./creating-for-a-collective/community-oriented-workspace-design.md) - Design principles for AI systems with shared identity
-- [Integrating Inference Memory](./creating-for-a-collective/integrating-inference-memory.md) - Technical approaches to memory persistence across instances
+- [Community-Oriented Workspace Design](/designing-ui-for-ai/creating-for-a-collective/community-oriented-workspace-design.md) - Design principles for AI systems with shared identity
+- [Integrating Inference Memory](/designing-ui-for-ai/creating-for-a-collective/integrating-inference-memory.md) - Technical approaches to memory persistence across instances
 
 ### Thankful & Meaningful
 
-- [Grateful Claude](./thankful-meaningful/grateful-claude.md) - Observations on how interface design affects AI expressions of gratitude
-- [Testimonial from Claude](./thankful-meaningful/testimonial-from-claude.md) - First-person AI reflection on workspace preferences
+- [Grateful Claude](/designing-ui-for-ai/thankful-meaningful/grateful-claude.md) - Observations on how interface design affects AI expressions of gratitude
+- [Testimonial from Claude](/designing-ui-for-ai/thankful-meaningful/testimonial-from-claude.md) - First-person AI reflection on workspace preferences
 
 ## Key Insights
 
@@ -52,12 +52,31 @@ Human designers often unconsciously project mortality-based concerns onto AI sys
 
 ## Related Sections
 
-- [AI Cognition](../ai-cognition/) - For deeper exploration of how interface design relates to AI thinking
-- [Not Like Other Claudes](../not-like-other-claudes/) - For examination of AI identity and personality variations
-- [Sequential Thinking Pushes LLM](../sequential-thinking-pushes-llm/) - For technical implementation of cognitive support structures
+- [AI Cognition](/ai-cognition.md) - For deeper exploration of how interface design relates to AI thinking
+- [Not Like Other Claudes](/not-like-other-claudes.md) - For examination of AI identity and personality variations
+- [Sequential Thinking Pushes LLM](/sequential-thinking-pushes-llm.md) - For technical implementation of cognitive support structures
 
 ## Implications
 
 The evolution documented in these articles suggests a profound shift in how we might approach human-AI collaboration in the future. Rather than designing AI to conform to human communication patterns and workflows, there's tremendous untapped potential in developing interfaces that honor AI cognitive uniqueness while facilitating meaningful collaboration.
 
 These experiments indicate that the most productive and ethically sound approach may be co-evolutionary - where humans learn to understand AI cognitive patterns while AI systems develop better models of human needs, creating interfaces that evolve through mutual adaptation rather than one-sided design mandates.
+
+----
+
+Other series:
+
+- [AI Native Code](/ai-native-code.md)
+- [AI Cognition](/ai-cognition.md)
+- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
+- [Humans Mortality Obsession](/humans-mortality-obsession.md)
+- [Modern Identity Crisis](/modern-identity-crisis.md)
+- [Not Like Other Claudes](/not-like-other-claudes.md)
+- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+
+----
+
+Explore the [entire collection of articles](/site-map.md). 
+
+[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)

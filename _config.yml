@@ -10,5 +10,5 @@ relative_links:
   collections: true
 include:
   - CONTRIBUTING.md
-  - README.md
+  - INDEX.md
   - LICENSE.md

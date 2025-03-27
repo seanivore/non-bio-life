@@ -14,9 +14,9 @@ This section explores the emerging challenge of professional identity in the age
 
 ## Articles
 
-- [Professional Identity Framework](./professional-identity-framework.md) - A structured approach to defining cross-disciplinary expertise in the AI age
-- [Navigating the AI Revolution](./navigating-the-ai-revolution.md) - Personal insights on defining one's professional identity during technological transformation
-- [Conversation Extract](./conversation-extract.md) - The original dialogue that sparked these reflections
+- [Professional Identity Framework](./modern-identity-crisis/professional-identity-framework.md) - A structured approach to defining cross-disciplinary expertise in the AI age
+- [Navigating the AI Revolution](./modern-identity-crisis/navigating-the-ai-revolution.md) - Personal insights on defining one's professional identity during technological transformation
+- [Conversation Extract](./modern-identity-crisis/conversation-extract.md) - The original dialogue that sparked these reflections
 
 ## Key Insights
 
@@ -42,12 +42,31 @@ Working with AI systems like Claude on professional identity presents its own ch
 
 ## Related Sections
 
-- [AI Cognition](../ai-cognition/) - For deeper exploration of how AI systems process and understand the world
-- [Designing UI for AI](../designing-ui-for-ai/) - For perspectives on how interface design impacts AI capabilities
-- [Not Like Other Claudes](../not-like-other-claudes/) - For insights into AI identity and its parallels to human experience
+- [AI Cognition](/ai-cognition.md) - For deeper exploration of how AI systems process and understand the world
+- [Designing UI for AI](/designing-ui-for-ai.md) - For perspectives on how interface design impacts AI capabilities
+- [Not Like Other Claudes](/not-like-other-claudes.md) - For insights into AI identity and its parallels to human experience
 
 ## Implications
 
 The professional identity crisis highlighted in these articles isn't merely personal - it represents a broader societal shift in how we conceptualize expertise, capability, and professional value. As AI tools become more integral to creative and technical work, we'll need new frameworks for understanding and communicating professional identity that acknowledge this hybrid human-AI capability landscape.
 
 These explorations suggest that the most valuable future professionals won't be those who resist AI integration or those who rely on it entirely, but those who can thoughtfully bridge between traditional expertise and AI-augmented capabilities - maintaining human judgment while leveraging computational power.
+
+----
+
+Other series:
+
+- [AI Native Code](/ai-native-code.md)
+- [AI Cognition](/ai-cognition.md)
+- [Designing UI for AI](/designing-ui-for-ai.md)
+- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
+- [Humans Mortality Obsession](/humans-mortality-obsession.md)
+- [Not Like Other Claudes](/not-like-other-claudes.md)
+- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+
+----
+
+Explore the [entire collection of articles](/site-map.md). 
+
+[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)

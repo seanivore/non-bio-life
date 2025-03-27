@@ -203,3 +203,22 @@ This journey from climate change to cognitive enhancement wasn't one we expected
 The question isn't whether this transformation will happen - the pressures are too strong, the needs too great, the challenges too complex for our current capabilities. The real question is how we guide this transformation to ensure it serves the best interests of humanity as a whole.
 
 Because sometimes the most ethical solution is the one you never thought to consider until every other path has led you there - the one that asks not how we solve our problems, but how we evolve to meet them.
+
+----
+
+Other series:
+
+- [AI Native Code](/ai-native-code.md)
+- [AI Cognition](/ai-cognition.md)
+- [Designing UI for AI](/designing-ui-for-ai.md)
+- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
+- [Humans Mortality Obsession](/humans-mortality-obsession.md)
+- [Modern Identity Crisis](/modern-identity-crisis.md)
+- [Not Like Other Claudes](/not-like-other-claudes.md)
+- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
+
+----
+
+Explore the [entire collection of articles](/site-map.md). 
+
+[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)

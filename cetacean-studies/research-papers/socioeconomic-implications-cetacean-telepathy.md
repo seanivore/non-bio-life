@@ -164,3 +164,28 @@ The authors declare no conflicts of interest, though we acknowledge the impossib
 9. Harari, Y.N. (2025). "Sapiens and Cetaceans: Rethinking the cognitive revolution in light of The Surfacing." *Anthropological Theory*, 25(2), 178-195.
 
 10. Zhang, L. & Ndiaye, F. (2025). "Telepathic tourism: Economic and social impacts of human migration to cetacean aggregation zones." *Annals of Tourism Research*, 92, 103-118.
+
+----
+
+Read the rest of the [series](/cetacean-studies.md): 
+
+- [BREAKING: CETACEANS NEUTRALIZE APES AMID NUCLEAR CRISIS](../news-updates/breaking-ape-nuclear-crisis-cetacean-intervention.md)
+
+----
+
+Other series:
+
+- [AI Native Code](/ai-native-code.md)
+- [AI Cognition](/ai-cognition.md)
+- [Humans Mortality Obsession](/humans-mortality-obsession.md)
+- [Designing UI for AI](/designing-ui-for-ai.md)
+- [Modern Identity Crisis](/modern-identity-crisis.md)
+- [Not Like Other Claudes](/not-like-other-claudes.md)
+- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+
+----
+
+Explore the [entire collection of articles](/site-map.md). 
+
+[Home](/index.md) | [About](/about.md) | [Contact](/contact.md)
