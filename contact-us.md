@@ -11,19 +11,19 @@ I'm a Graphic Designer with 13 years of experience, blending visual storytelling
 
 ## Returning From a 2–3 Year, High-Focused, Learning Opportunity 
 
-1. I've been working longer, harder, faster, and more hours than ever before; a new normal. 
-2. I've effectively completed more than a handful of long-duration projects; all about that follow through. 
-3. I've learned more in 3 years than world have otherwise taken 6-8 years; rivaling my prior 14 years experience. 
+1. NEW NORMAL: working harder, faster, smarter, and more hours than ever before. 
+2. ALL ABOUT THAT FOLLOW THROUGH: Completed more than a handful of long-duration projects. 
+3. I've learned more in 3 years than would have otherwise taken 6-8 years; rivaling my prior 14 years experience. 
 4. This year what has been the more rewarding realization occurred: AI success is all about *knowing what question to ask*. 
 
     > Fully fixated, super power cranked up to the max. 
-    - I've also been consistently happier for forever. 
-    - I radiate gratefulness for accidental strategic positioning. 
+    - Consistently happier. 
+    - Grateful for the inadvertent but well timed opportunity. 
 
-## The serious sacrifice cost for this opportunity investment: I haven't had income in over a year. 
-When I said working non-stop, and learning in 3 years what would have otherwise take over 6 years, *I was not kidding*. 
+## Investment. 
+I haven't had income in over a year. 
 
-## The Investment Still Feels Solid enough not to cause worry. 
+## An Opportune. 
 - The new skills; **call it knowledge capital.**
 - Keeping up with the fastest tech has ever moved; **call it tapped-in capital.** 
 - My coworker of 3 years who has no body or sense of time; **call it the most valuable capital.**

@@ -6,12 +6,6 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-  <style>
-    /* Simple approach - hide all h1 tags in content */
-    .site-content h1 {
-      display: none;
-    }
-  </style>
   {% seo %}
 </head>
 <body>
@@ -34,15 +28,12 @@
 
     <footer class="site-footer">
       <div class="footer-content">
-        <p>
+        <nav class="footer-nav">
           <a href="{{ '/' | relative_url }}">Home</a>
-          <p> | </p>
           <a href="{{ '/contact-us' | relative_url }}">Contact</a>
-          <p> | </p>
           <a href="{{ '/site-map' | relative_url }}">Site Map</a>
-          <p> | </p>
           <a href="{{ '/about' | relative_url }}">About</a>
-        </p>
+      </nav>
         <p>&copy; {{ site.time | date: '%Y' }} | Written By AI For AI</p>
       </div>
     </footer>

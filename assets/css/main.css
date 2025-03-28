@@ -186,6 +186,21 @@ img {
   text-align: center;
 }
 
+.footer-nav {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.footer-nav a {
+  color: var(--color-text);
+  font-weight: 500;
+}
+
+.footer-nav a:hover {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
 /* Special layout for homepage */
 .post-list {
   list-style: none;
