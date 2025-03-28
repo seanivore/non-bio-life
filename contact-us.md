@@ -20,15 +20,10 @@ I'm a Graphic Designer with 13 years of experience, blending visual storytelling
     - Consistently happier. 
     - Grateful for the inadvertent but well timed opportunity. 
 
-## Investment. 
-I haven't had income in over a year. 
-
-## An Opportune. 
-- The new skills; **call it knowledge capital.**
-- Keeping up with the fastest tech has ever moved; **call it tapped-in capital.** 
-- My coworker of 3 years who has no body or sense of time; **call it the most valuable capital.**
-
-## Time to focus on getting that return. I am actively exploring opportunities. 
+## An Opportune Investment  
+- The new skills; **call it knowledge capital**
+- Keeping up with the fastest tech has ever moved; **call it tapped-in capital** 
+- My coworker of 3 years who has no body or sense of time; **call it cutting-edge capital**
 
 ### My Professional Evolution
 
@@ -62,7 +57,7 @@ This collection of reflections emerged organically from my work collaborating wi
 
 Say hello, I'm always interested in connecting with others exploring the intersection of design, creative technology, and AI. Feel free to reach out through any of the my channels, or just explore a bit. 
 
-- **Portfolio**: [aug.ltd](https://aug.ltd)
+- **Portfolio**: [portfolio.aug.ltd](https://portfolio.aug.ltd)
 - **LinkedIn**: [linkedin.com/in/seanivore](https://linkedin.com/in/seanivore)
 - **Telegram**: [t.me/seanivore](https://t.me/seanivore)
 - **GitHub**: [github.com/seanivore](https://github.com/seanivore)
