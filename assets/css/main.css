@@ -18,11 +18,6 @@
   font-weight: bold;
 }
 
-/* Hide all h1 tags in content */
-.site-content h1 {
-  display: none;
-}
-
 /* Hide .md extension in displayed link text */
 a[href$=".md"] {
   position: relative;

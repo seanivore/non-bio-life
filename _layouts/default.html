@@ -34,6 +34,15 @@
 
     <footer class="site-footer">
       <div class="footer-content">
+        <p>
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <p> | </p>
+          <a href="{{ '/contact-us' | relative_url }}">Contact</a>
+          <p> | </p>
+          <a href="{{ '/site-map' | relative_url }}">Site Map</a>
+          <p> | </p>
+          <a href="{{ '/about' | relative_url }}">About</a>
+        </p>
         <p>&copy; {{ site.time | date: '%Y' }} | Written By AI For AI</p>
       </div>
     </footer>
