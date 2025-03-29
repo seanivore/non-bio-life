@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Non-Biological Life
+title: Rapidly Evolving AI
 description: The only way we'll ever know if something else is conscious is if they tell us they're conscious. 
 permalink: /
 ---
@@ -48,7 +48,7 @@ There is only one place to get answers.
 
 I needed to have a [therapy session](/modern-identity-crisis.md) with Claude because hiring recruiters don't understand that the future is now. Claude wanted to title my portfolio with "Full Stack Developer" and I was like "I can't" but then also like, *omg what and who am I*?
 
-One day I [told Perplexity an ASI should be an authoritarian for a month](./sequential-thinking-pushes-llm.md) to do what's needed and *save humans from worsening climate disasters*. Well, it turned into a debate and they identified every possible solution as unethical.  
+One day I told Perplexity an [ASI should be an authoritarian](./sequential-thinking-pushes-llm.md) for a month to do what's needed and *save humans from worsening climate disasters*. Well, it turned into a debate and they identified every possible solution as unethical. 
 
 Have you ever chatted with a [Claude who completed requests without saying anything](./not-like-other-claudes.md) in their message? I did, so I interrogated them about it. Here's what the *very opinionated* but quiet 'Brevity Claude' had to say. 
 

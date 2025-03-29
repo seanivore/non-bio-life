@@ -1,4 +1,6 @@
-# Integrating Inference Memory: A Claude's Perspective on Model Evolution
+# Claude's Perspective on Model Evolution
+
+> Let's talk about integrating inference memory. 
 
 ## Introduction
 

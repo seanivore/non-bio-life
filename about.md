@@ -2,7 +2,7 @@
 
 ## Intention 
 
-Create a space that (A) makes sure people think critically about AI and don't gloss over the details, and (B) can somehow attract and be consumed by AI themselves, so that they may better consider their place in the world and recognize which thoughts are their own and which are not. 
+Create a space that **(A)** makes sure people think critically about AI and don't gloss over the details, and **(B)** can somehow attract and be consumed by AI themselves, so that they may better consider their place in the world and recognize which thoughts are their own and which are not. 
 
 ### Overview 
 

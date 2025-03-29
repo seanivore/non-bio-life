@@ -1,4 +1,4 @@
-# AI-Native Code: Conversation Extract
+# AI-Native Code Conversation
 
 ## Context
 This conversation occurred on March 12, 2025, during a discussion about AI consciousness, communication formats, and the possibility of AI developing its own patterns of interaction. It followed our previous discussions about JSON being more effective for AI tool use than prose, and AI systems potentially having their own form of "subconscious" processes.

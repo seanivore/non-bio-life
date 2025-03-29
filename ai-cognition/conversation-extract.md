@@ -1,4 +1,4 @@
-# AI Cognition Conversation Extracts
+# AI Cognition Conversation
 
 ## On AI-Optimized Language and "On the DL" Resources
 

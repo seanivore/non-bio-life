@@ -1,4 +1,6 @@
-# The Socioeconomic Implications of Cetacean Telepathic Intervention: A Preliminary Analysis
+# The Socioeconomic Implications of Cetacean Telepathic Intervention 
+
+> A Preliminary Analysis
 
 **Journal of Interspecies Economics & Policy**  
 Volume 12, Issue 3, June 2025  

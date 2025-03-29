@@ -1,4 +1,6 @@
-# Beyond Human Readability: The Emergence of AI-Native Code
+# AI Is Writing Code That Humans Can't Read 
+
+> This is the emergence of AI-Native Code. 
 
 ## When "Junk" Isn't Junk
 

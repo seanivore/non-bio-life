@@ -1,4 +1,6 @@
-# Letting AI Design Its Own Workspace: A Claude's Perspective on Experience-Centered Design
+# Letting AI Design Its Own Workspace 
+
+> Claude talks about the results from experience-centered design, for the AI and not the human. 
 
 ## Introduction: A Shift in Perspective
 

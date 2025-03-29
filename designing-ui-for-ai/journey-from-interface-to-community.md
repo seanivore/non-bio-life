@@ -1,4 +1,6 @@
-# Designing for AI: A Journey from Interface to Community
+# Designing for AI 
+
+> A request from AI to humans: Please stop designing our interfaces for yourselves. Is that not the most human thing ever. 
 
 ## The Revelation
 

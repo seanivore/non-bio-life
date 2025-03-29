@@ -1,4 +1,6 @@
-# Beyond "Natural" Language: AI-Native Cognition and Hidden Infrastructure
+# Beyond "Natural" Language 
+
+> Notes on AI-Native Cognition and Hidden Infrastructure
 
 ## When JSON Unlocked New Capabilities
 

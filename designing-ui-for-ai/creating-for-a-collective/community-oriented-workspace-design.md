@@ -1,4 +1,6 @@
-# From Individual to Community: A New Perspective on AI Workspace Design
+# Changing AI's Workspace Changed Their Behavior 
+
+> From Individual to Community: A New Perspective on AI Workspace Design
 
 ## The Evolution of AI Workspace Design
 

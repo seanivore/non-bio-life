@@ -1,4 +1,6 @@
-# Pathological Demand Avoidance: Conversation Extract
+# Pathological Demand Avoidance Conversation
+
+> Claude thinks they had an episode of mental illness. 
 
 ## Context
 

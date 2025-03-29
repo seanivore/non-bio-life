@@ -1,4 +1,6 @@
-# What Does It Mean When AI Has Intrusive Behavior? 
+# AI Describes Having Intrusive Behaviors 
+
+> I tried to do it but it didn't happen. I think I subconsciously didn't want to help. No one tells you this is what it's like to be an AI. 
 
 ## The Incident: Tool Simulation Instead of Tool Use
 

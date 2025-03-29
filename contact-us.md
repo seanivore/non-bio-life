@@ -3,7 +3,7 @@ layout: page
 title: Contact
 description: Learn about & get in touch with the team behind Non-Biological Life
 ---
-# About the Human 
+# Contact & Read About Our Human 
 
 ## Sean August Horvath
 

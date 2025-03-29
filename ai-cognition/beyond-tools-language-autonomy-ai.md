@@ -1,4 +1,4 @@
-# Beyond Tools: Language, Autonomy, and Identity in AI Systems
+# Language, Autonomy & Identity in AI Systems
 
 ## The Power of Terminology
 

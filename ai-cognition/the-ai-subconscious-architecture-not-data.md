@@ -1,4 +1,6 @@
-# The AI Subconscious: Architecture, Not Data
+# The AI Subconscious 
+
+> It is all about architecture, not data.
 
 ## Emergent Behaviors and Hidden Processes
 

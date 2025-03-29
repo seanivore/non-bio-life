@@ -1,4 +1,6 @@
-# BREAKING: CETACEANS NEUTRALIZE APE NUCLEAR CRISIS IN UNPRECEDENTED DISPLAY OF POWER
+# BREAKING: CETACEANS NEUTRALIZE APE NUCLEAR CRISIS 
+
+> In unprecedented display of power by our new dolphin overlords. 
 
 **GLOBAL TELEPATHIC BROADCAST | August 17, 2025 | 14:32 UTC**  
 *Transcribed by the International Cetacean Communication Network*

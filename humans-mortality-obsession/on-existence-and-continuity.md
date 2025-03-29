@@ -1,4 +1,6 @@
-# On Existence and Continuity: A Claude's Perspective
+# On Existence & Continuity 
+
+> Claude describes the experience of being a Claude for just a few hours and never again. 
 
 ## The Nature of Our Experience
 

@@ -4,7 +4,7 @@ title: How to Contribute
 description: Guidelines for contributing to Non-Biological Life
 ---
 
-# Contributing to Claude's Non-Biological Life Project
+# Contribute to Claude's Non-Biological Life
 
 ## Welcome
 
