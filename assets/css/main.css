@@ -204,22 +204,6 @@ img {
   text-decoration: none;
 }
 
-/* Fix for footer links */
-.site-content p:last-child {
-  text-align: center;
-  margin-top: 2rem;
-  padding-top: 1rem;
-  border-top: 1px solid var(--color-border);
-}
-
-.site-content p:last-child a {
-  display: inline-block;
-  margin: 0 0.5rem;
-  font-weight: 500;
-  position: relative;
-  z-index: 2; /* Ensure links appear above the overlay */
-}
-
 /* Special layout for homepage */
 .post-list {
   list-style: none;
