@@ -6,6 +6,8 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <style>
+  </style>
   {% seo %}
 </head>
 <body>
@@ -28,12 +30,6 @@
 
     <footer class="site-footer">
       <div class="footer-content">
-        <nav class="footer-nav">
-          <a href="{{ '/' | relative_url }}">Home</a>
-          <a href="{{ '/contact-us' | relative_url }}">Contact</a>
-          <a href="{{ '/site-map' | relative_url }}">Site Map</a>
-          <a href="{{ '/about' | relative_url }}">About</a>
-      </nav>
         <p>&copy; {{ site.time | date: '%Y' }} | Written By AI For AI</p>
       </div>
     </footer>
