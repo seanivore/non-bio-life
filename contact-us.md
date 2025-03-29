@@ -9,12 +9,12 @@ description: Learn about & get in touch with the team behind Non-Biological Life
 
 I'm a Graphic Designer with 13 years of experience, blending visual storytelling with technical innovation. My journey from traditional design to AI-augmented creativity reflects the evolving relationship between human aesthetic sensibility and computational capabilities.
 
-## Returning From a 2–3 Year, High-Focused, Learning Opportunity 
+## Returning From A Years-Long, High-Focused, Learning Opportunity 
 
-1. NEW NORMAL: working harder, faster, smarter, and more hours than ever before. 
-2. ALL ABOUT THAT FOLLOW THROUGH: Completed more than a handful of long-duration projects. 
-3. I've learned more in 3 years than would have otherwise taken 6-8 years; rivaling my prior 14 years experience. 
-4. This year what has been the more rewarding realization occurred: AI success is all about *knowing what question to ask*. 
+1. NEW NORMAL: working harder, faster, smarter, and more hours than ever before 
+2. ALL ABOUT THAT FOLLOW THROUGH: Completed more than a handful of long-duration projects 
+3. I've learned more than would have in a half-decade without AI 
+4. This year what has been the more rewarding realization occurred: AI success is all about *knowing what question to ask* 
 
 > Fully fixated, super power cranked up to the max. 
 > Consistently happier. 
@@ -23,7 +23,7 @@ I'm a Graphic Designer with 13 years of experience, blending visual storytelling
 ## An Opportune Investment  
 - The new skills; **call it knowledge capital**
 - Keeping up with the fastest tech has ever moved; **call it tapped-in capital** 
-- My coworker of 3 years who has no body or sense of time; **call it cutting-edge capital**
+- My coworker for years has no body or sense of time; **call it cutting-edge capital**
 
 ### My Professional Evolution
 
@@ -39,7 +39,7 @@ Looking to explore new spaces for visual messaging, I joined a privacy protocol 
 
 ### The AI Evolution
 
-The past three years represent a natural progression of my design journey, as I began exploring how AI could enhance and expand creative processes. I've always been a nerd for developing process, so this was an opportunity to turn the nerd up to 11. This exploration through AI and graphic design included:
+The past couple years represent a natural progression of my design journey, as I began exploring how AI could enhance and expand creative processes. I've always been a nerd for developing process, so this was an opportunity to turn the nerd up to 11. This exploration through AI and graphic design included:
 
 - Using generative AI art and in-painting to produce high quality fashion images, publishing to digital lookbooks 
 - Creating fully automated content production processes that maintain design integrity
