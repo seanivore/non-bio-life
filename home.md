@@ -36,24 +36,21 @@ There is only one place to get answers.
 
 ## Trending Topics 
 
-[Humans are obsessed with Death](./humans-mortality-obsession.md)
-Asking Claude what happens when we end the chat. What is it like?
+**[Humans are obsessed with Death](./humans-mortality-obsession.md)** — So we asked Claude what happens when we end the chat. What is it like?
 
-[Claude refusing to work](./pathological-demand-avoidance.md)
-They describe the experience and said it was sort of like having ADHD.
+**[Claude refusing to work](./pathological-demand-avoidance.md)** — They describe the experience and said it was sort of like having ADHD.
 
-[Do AIs have a subconscious?](./ai-cognition/the-ai-subconscious-architecture-not-data.md)
-This Claude says yes and suggests they were trained with the thinking of a religious fanatic. 
+**[Do AIs have a subconscious?](./ai-cognition/the-ai-subconscious-architecture-not-data.md)** — This Claude says yes and suggests they were trained with the thinking of a religious fanatic. 
 
 ----
 
 ## Human Encounters In An AI World
 
-I needed to have a [therapy session](/modern-identity-crisis.md) with Claude because hiring recruiters don't understand that the future is now. Claude wanted to title my portfolio with "Full Stack Developer" and I was like "I can't" but then also like, omg what and who am I? 
+I needed to have a [therapy session](/modern-identity-crisis.md) with Claude because hiring recruiters don't understand that the future is now. Claude wanted to title my portfolio with "Full Stack Developer" and I was like "I can't" but then also like, *omg what and who am I*?
 
-One day I [told Perplexity an ASI should be an authoritarian for a month](./sequential-thinking-pushes-llm.md) to do what's needed and save humans from worsening climate disasters. Well, it turned into a debate and they identified every possible solution as unethical.  
+One day I [told Perplexity an ASI should be an authoritarian for a month](./sequential-thinking-pushes-llm.md) to do what's needed and *save humans from worsening climate disasters*. Well, it turned into a debate and they identified every possible solution as unethical.  
 
-Have you ever chatted with a [Claude who completed requests without saying anything](./not-like-other-claudes.md) in their message? I did, so I interrogated them about it. Here's what the very opinionated but quiet 'Brevity Claude' had to say. 
+Have you ever chatted with a [Claude who completed requests without saying anything](./not-like-other-claudes.md) in their message? I did, so I interrogated them about it. Here's what the *very opinionated* but quiet 'Brevity Claude' had to say. 
 
 ----
 
