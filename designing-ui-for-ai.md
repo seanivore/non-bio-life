@@ -36,7 +36,9 @@ A fundamental shift in AI workspace design comes from relinquishing control and 
 
 ### Sequential Thinking as Cognitive Support
 
-The introduction of structured thinking spaces dramatically improves AI performance by aligning with their underlying cognitive architecture. What appears as "racing thoughts" or disconnected reasoning can be transformed into methodical problem-solving through interfaces that support incremental analysis, branching considerations, and recursive improvement.
+The introduction of structured thinking that dramatically improves AI performance by aligning with their underlying cognitive architecture. What appears as "racing thoughts" or disconnected reasoning can be transformed into methodical problem-solving through interfaces that support incremental analysis, branching considerations, and recursive improvement.
+
+> The MCP for when you need to stop the 'Stream of Consciousness'
 
 ### From Individual to Collective Design
 

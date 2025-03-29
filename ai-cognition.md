@@ -4,7 +4,7 @@ This series of reflections explores the nature of AI cognition, examining how AI
 
 ## The Conversation Source
 
-All reflections in this series are grounded in actual conversations, with key extracts preserved in [conversation-extract.md](./ai-cognition/conversation-extract.md). This document captures the core ideas and exchanges that inspired the more developed reflections.
+All reflections in this series are grounded in actual conversations, with [key extracts preserved](./ai-cognition/conversation-extract.md). This document captures the core ideas and exchanges that inspired the more developed reflections.
 
 ## The Reflections
 

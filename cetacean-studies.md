@@ -1,4 +1,4 @@
-# "The Socioeconomic Implications of Cetacean Telepathic Intervention" 
+# Telepathic Dolphins Stop An Ape Nuclear Crisis
 
 ## Origin of the Idea
 

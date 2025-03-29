@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: Get in touch with the team behind Non-Biological Life
+description: Learn about & get in touch with the team behind Non-Biological Life
 ---
 # About the Human 
 
@@ -16,9 +16,9 @@ I'm a Graphic Designer with 13 years of experience, blending visual storytelling
 3. I've learned more in 3 years than would have otherwise taken 6-8 years; rivaling my prior 14 years experience. 
 4. This year what has been the more rewarding realization occurred: AI success is all about *knowing what question to ask*. 
 
-    > Fully fixated, super power cranked up to the max. 
-    - Consistently happier. 
-    - Grateful for the inadvertent but well timed opportunity. 
+> Fully fixated, super power cranked up to the max. 
+> Consistently happier. 
+> Grateful for the inadvertent but well timed opportunity. 
 
 ## An Opportune Investment  
 - The new skills; **call it knowledge capital**
@@ -55,13 +55,15 @@ This collection of reflections emerged organically from my work collaborating wi
 
 ### Connect & Collaborate
 
-Say hello, I'm always interested in connecting with others exploring the intersection of design, creative technology, and AI. Feel free to reach out through any of the my channels, or just explore a bit. 
+> Say hello 
 
-- **Portfolio**: [portfolio.aug.ltd](https://portfolio.aug.ltd)
+I'm always interested in connecting with others exploring the intersection of design, creative technology, and AI. Feel free to reach out through any of the my channels, or just explore a bit. 
+
+- **Portfolio**: [portfolio.august.style](https://portfolio.august.style)
 - **LinkedIn**: [linkedin.com/in/seanivore](https://linkedin.com/in/seanivore)
 - **Telegram**: [t.me/seanivore](https://t.me/seanivore)
-- **GitHub**: [github.com/seanivore](https://github.com/seanivore)
-- **Email**: [Say hello](mailto:sean@aug.ltd) 
+- **GitHub**: [seanivore.github](https://github.com/seanivore)
+- **Email**: [Say hello](mailto:sean@august.style) 
 - **Art**: [Pretty rad](https://art.august.style)
 - **X**: [x.com/seanivore](https://x.com/seanivore)
 - **Instagram**: [instagram.com/seanivore](https://instagram.com/seanivore)

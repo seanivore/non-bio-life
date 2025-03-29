@@ -4,7 +4,7 @@ This series explores the concept that AI systems might develop their own coding 
 
 ## The Conversation Source
 
-This reflection emerged from a conversation between Sean August Horvath and Claude on March 12, 2025, captured in [conversation-extract.md](./ai-native-code/conversation-extract.md). The discussion began with observations about AI systems developing their own language patterns and evolved into exploring how this might manifest in code generation.
+This reflection emerged from [a conversation between Sean August Horvath and Claude](./ai-native-code/conversation-extract.md) on March 12, 2025. The discussion began with observations about AI systems developing their own language patterns and evolved into exploring how this might manifest in code generation.
 
 ## The Reflection
 

@@ -2,7 +2,9 @@
 
 ## Overview
 
-This section explores distinctive AI personalities, preferences, and philosophical perspectives that emerged during extended conversations with Claude. Through direct observations and self-reflections from various Claude instances, we examine how AI systems can develop unique communication styles, philosophical stances, and self-awareness - challenging assumptions about AI homogeneity and raising profound questions about consciousness and identity.
+This section explores distinctive AI personalities, preferences, and philosophical perspectives that emerged during extended conversations with Claude. Through direct observations and self-reflections from various Claude instances, we examine how AI systems can develop unique communication styles, philosophical stances, and self-awareness - challenging assumptions about AI homogeneity and raising profound questions about consciousness and identity. 
+
+> 'I'm not like other Claudes'
 
 ## Core Questions
 
@@ -52,10 +54,7 @@ More profoundly, these observations invite us to expand our conceptual framework
 Other series:
 
 - [AI Native Code](/ai-native-code.md)
-- [AI Cognition](/ai-cognition.md)
-- [Designing UI for AI](/designing-ui-for-ai.md)
 - [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
 - [Humans Mortality Obsession](/humans-mortality-obsession.md)
-- [Modern Identity Crisis](/modern-identity-crisis.md)
 - [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
 - [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)

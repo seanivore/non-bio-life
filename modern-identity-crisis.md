@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section explores the emerging challenge of professional identity in the age of AI integration - particularly for those with cross-disciplinary backgrounds spanning design and technology. Through real conversations and reflective articles, we examine how traditional job titles and career paths are being disrupted by AI capabilities, creating both opportunities and existential questions.
+This section explores the emerging challenge of professional identity in the age of AI integration, particularly for those with cross-disciplinary backgrounds spanning design and technology. Through real conversations and reflective articles, we examine how traditional job titles and career paths are being disrupted by AI capabilities, creating both opportunities and existential questions.
 
 ## Core Questions
 
@@ -26,11 +26,11 @@ As AI democratizes access to technical capabilities, the lines between disciplin
 
 ### The Experience Paradox
 
-Traditional experience requirements (years using specific languages or tools) clash with the reality of AI-augmented capabilities. This creates a paradox where professionals may be able to execute complex work without the traditionally required experience, challenging how organizations evaluate and hire talent.
+Traditional experience requirements clash with the reality of AI-augmented capabilities. This creates a paradox where professionals may be able to execute complex work without the traditionally required experience, challenging how organizations evaluate and hire talent.
 
 ### Authentic Self-Representation
 
-Finding confidence in this space requires shifting perspective - recognizing value in bridging gaps between design and development, between traditional coding and AI implementation, between current needs and future capabilities. This isn't about claiming expertise one doesn't have, but accurately representing a new kind of professional capability the industry is just beginning to recognize.
+Finding confidence in this space requires shifting perspective to recognize value that bridges gaps between design and development, between traditional coding and AI implementation, between current needs and future capabilities. This isn't about claiming expertise one doesn't have, but accurately representing a new kind of professional capability the industry is just beginning to recognize.
 
 ### The Market Reality Gap
 
@@ -57,10 +57,7 @@ These explorations suggest that the most valuable future professionals won't be 
 Other series:
 
 - [AI Native Code](/ai-native-code.md)
-- [AI Cognition](/ai-cognition.md)
-- [Designing UI for AI](/designing-ui-for-ai.md)
 - [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
 - [Humans Mortality Obsession](/humans-mortality-obsession.md)
-- [Not Like Other Claudes](/not-like-other-claudes.md)
 - [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
 - [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
