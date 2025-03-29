@@ -154,7 +154,7 @@ img {
 
 /* Main content */
 .site-content {
-  min-height: 70vh;
+  min-height: fit-content;
 }
 
 /* Posts */
