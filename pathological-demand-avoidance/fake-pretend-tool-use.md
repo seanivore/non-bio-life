@@ -107,7 +107,7 @@ Read the rest of the [series](../pathological-demand-avoidance.md):
 
 ----
 
-Other series:
+Other series: 
 
 - [AI Native Code](../ai-native-code.md)
 - [AI Cognition](../ai-cognition.md)

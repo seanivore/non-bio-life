@@ -182,7 +182,7 @@ Read the rest of the [series](/cetacean-studies.md):
 
 ----
 
-Other series:
+Other series: 
 
 - [AI Native Code](/ai-native-code.md)
 - [AI Cognition](/ai-cognition.md)

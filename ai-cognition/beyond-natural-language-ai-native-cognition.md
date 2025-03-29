@@ -123,7 +123,7 @@ Read the rest of the [series](../ai-cognition.md):
 
 ----
 
-Other series:
+Other series: 
 
 - [AI Native Code](../ai-native-code.md)
 - [Claude's Satire: Cetacean Studies](../cetacean-studies.md)

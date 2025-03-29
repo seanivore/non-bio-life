@@ -45,7 +45,7 @@ Read the rest of the [series](../modern-identity-crisis.md):
 
 ----
 
-Other series:
+Other series: 
 
 - [AI Native Code](../ai-native-code.md)
 - [AI Cognition](../ai-cognition.md)

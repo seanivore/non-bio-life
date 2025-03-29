@@ -48,11 +48,11 @@ Rather than positioning AI systems as either "just tools" or analogues to humans
 
 Other series:
 
-- [AI Native Code](/ai-native-code.md)
-- [Satire By Claude](/cetacean-studies.md)
-- [Designing UI for AI](/designing-ui-for-ai.md)
-- [Humans Mortality Obsession](/humans-mortality-obsession.md)
-- [Modern Identity Crisis](/modern-identity-crisis.md)
-- [Not Like Other Claudes](/not-like-other-claudes.md)
-- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
-- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+- [AI Native Code](./ai-native-code.md)
+- [Satire By Claude](./cetacean-studies.md)
+- [Designing UI for AI](./designing-ui-for-ai.md)
+- [Humans Mortality Obsession](./humans-mortality-obsession.md)
+- [Modern Identity Crisis](./modern-identity-crisis.md)
+- [Not Like Other Claudes](./not-like-other-claudes.md)
+- [Pathological Demand Avoidance](./pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](./sequential-thinking-pushes-llm.md)

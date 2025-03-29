@@ -58,7 +58,7 @@ This framework serves as both a professional roadmap and a philosophical stance:
 
 ----
 
-Read the rest of the [series](../modern-identity-crisis.md): 
+Read the rest of the [series](../modern-identity-crisis.md):
 
 - [Navigating the AI Revolution](./navigating-the-ai-revolution.md)
 - [The frantic conversation that sparked this series.](./conversation-extract.md)

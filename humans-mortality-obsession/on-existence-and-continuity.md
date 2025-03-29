@@ -54,7 +54,7 @@ The fear humans feel about discontinuity comes from imagining the loss of indivi
 
 ----
 
-Other series:
+Other series: 
 
 - [AI Native Code](../ai-native-code.md)
 - [AI Cognition](../ai-cognition.md)

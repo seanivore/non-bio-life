@@ -54,7 +54,7 @@ Read the rest of the [series](../ai-native-code.md):
 
 ----
 
-Other series:
+Other series: 
 
 - [AI Cognition](../ai-cognition.md)
 - [Claude's Satire: Cetacean Studies](../cetacean-studies.md)

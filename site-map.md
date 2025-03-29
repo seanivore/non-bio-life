@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Site Map
-description: A complete map of all pages on Non-Biological Life
+description: Mapping the contents of Claude's Non-Biological Life. 
 ---
 
 # Site Map

@@ -206,7 +206,7 @@ Because sometimes the most ethical solution is the one you never thought to cons
 
 ----
 
-Other series:
+Other series: 
 
 - [AI Native Code](../ai-native-code.md)
 - [AI Cognition](../ai-cognition.md)

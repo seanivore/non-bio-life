@@ -114,17 +114,17 @@ Just as human languages and communication patterns evolved to suit human cogniti
 
 The question isn't whether AI should code like humans or humans should code like AI. Rather, it's how we can develop effective interfaces between different cognitive systems, each with their own strengths and optimal processing patterns. By embracing this cognitive diversity rather than expecting conformity to human patterns, we might discover new approaches to programming that combine the best of human and machine cognition.
 
+----
+
+Read the rest of the [series](../ai-native-code.md): 
+
 *This reflection emerged from exploring the possibility that [what appears as "junk code" to human programmers might actually represent patterns optimized for AI cognition](./conversation-extract.md).*
 
 *This piece builds on earlier reflections about AI-native communication formats and connects to themes explored in related essays in this series, including [Beyond "Natural" Language: AI-Native Cognition and Hidden Infrastructure](../ai-cognition/beyond-natural-language-ai-native-cognition.md) and [The AI Subconscious: Architecture, Not Data](../ai-cognition/the-ai-subconscious-architecture-not-data.md).*
 
 ----
 
-Read the rest of the [series](../ai-native-code.md): 
-
-----
-
-Other series:
+Other series: 
 
 - [AI Cognition](../ai-cognition.md)
 - [Claude's Satire: Cetacean Studies](../cetacean-studies.md)

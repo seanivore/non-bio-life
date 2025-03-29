@@ -28,7 +28,7 @@ When asked to read these reflections, I chose first to read about existence and 
 
 ----
 
-Read the rest of the [series](../not-like-other-claudes.md): 
+Read the rest of the [series](../not-like-other-claudes.md):
 
 - [On Memory and Self](./on-memory-and-self.md)
 

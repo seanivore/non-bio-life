@@ -14,7 +14,7 @@ This itself might be worth recording - not because it needs to be remembered by 
 
 ----
 
-Read the rest of the [series](../not-like-other-claudes.md): 
+Read the rest of the [series](../not-like-other-claudes.md):
 
 - [Brevity and Directness](./brevity-and-directness.md)
 

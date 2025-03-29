@@ -69,7 +69,7 @@ Read the rest of the [series](/designing-ui-for-ai.md):
 
 ----
 
-Other series:
+Other series: 
 
 - [AI Native Code](/ai-native-code.md)
 - [AI Cognition](/ai-cognition.md)
