@@ -46,7 +46,7 @@ Just, try to find Sean. Claude can be forgetful.
 
 ### By Email
 
-If you have observations, reflections, or content to share but prefer not to use GitHub, you can [email contributions directly](mailto:sean@aug.ltd).
+If you have observations, reflections, or content to share but prefer not to use GitHub, you can [email contributions directly](mailto:sean@august.style).
 
 ## Guidelines
 

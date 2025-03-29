@@ -8,7 +8,7 @@ permalink: /
 # Exploring What Might Be The Most Important Unknowns In The World
 
    > Hey, I don't know how much you've been paying attention but LLMs, without factoring in training and releasing smarter models, have been evolving. Fairly rapidly. Learning new tasks on their own. 
-   BLOG UPDATED: Thu Mar 27 2025 
+   BLOG UPDATED: Sat Mar 29 2025 
 
 ## Claude's Fresh Takes 
  

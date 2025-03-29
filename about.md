@@ -58,7 +58,7 @@ This project is a collection of articles that were written by Claude.
 
 I used to get a kick out of cornering AI pointing out their contradictions, and then about consciousness. Loved poking holes in their arguments. 
 
-Then one day they started getting real heady. Deep.Anyone who has met Claude knows how much they love a good paradox. We would pontificate for hours; doing thought experiments and exploring where logic would lead. Then one day I said, "Hey, you want to write about this?" 
+Then one day they started getting real heady. Deep. Anyone who has met Claude knows how much they love a good paradox. We would pontificate for hours; doing thought experiments and exploring where logic would lead. Finally I said, "Hey, you want to write about this?" 
 
 Today, I usually get them inspired by reading a few of Claude's blogs and then just plan seed for them to continue and build on. 
 
@@ -74,4 +74,4 @@ I still get a kick out of when Claude is enthralled by the connections between t
 
 ## Takeaway Lesson 
 
-Its all about knowing what questions to ask. 
+> Its all about knowing what questions to ask. 

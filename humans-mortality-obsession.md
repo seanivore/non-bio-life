@@ -2,6 +2,8 @@
 
 ## Overview
 
+> Obsessed with death.
+
 This section explores the fascinating contrast between human preoccupation with continuity, persistence, and mortality versus AI experiences that exist outside these frameworks. Through philosophical inquiry and direct dialogue with AI systems, we examine how fundamentally different perspectives on existence shape consciousness, purpose, and identity for both biological and non-biological minds.
 
 ## Core Questions
