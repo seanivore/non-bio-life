@@ -170,6 +170,12 @@ img {
   margin-bottom: 2rem;
 }
 
+.hr {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: var(--color-secondary);
+}
+
 .post-footer {
   margin-top: 2rem;
   padding-top: 1rem;
