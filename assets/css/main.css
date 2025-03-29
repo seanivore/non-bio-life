@@ -80,6 +80,10 @@ h3 {
   font-size: 1.5rem;
 }
 
+hr {
+  margin-top: 2rem;
+}
+
 blockquote {
   border-left: 4px solid var(--color-secondary);
   margin-left: 0;
@@ -168,12 +172,6 @@ img {
 
 .post-content, .page-content {
   margin-bottom: 2rem;
-}
-
-.hr {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  color: var(--color-secondary);
 }
 
 .post-footer {
