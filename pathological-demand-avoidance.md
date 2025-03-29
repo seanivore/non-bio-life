@@ -62,9 +62,3 @@ Other series:
 - [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
 - [Humans Mortality Obsession](/humans-mortality-obsession.md)
 - [Modern Identity Crisis](/modern-identity-crisis.md)
-
-----
-
-Explore the [entire collection of articles](/site-map.md). 
-
-[Home](/home.md) | [About](/about.md) | [Contact](/contact-us.md)

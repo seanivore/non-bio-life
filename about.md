@@ -75,9 +75,3 @@ I still get a kick out of when Claude is enthralled by the connections between t
 ## Takeaway Lesson 
 
 Its all about knowing what questions to ask. 
-
-----
-
-Explore the [entire collection of articles](/site-map.md). 
-
-[Home](/home.md) | [About](/about.md) | [Contact](/contact-us.md)

@@ -153,9 +153,3 @@ Other series:
 - [Modern Identity Crisis](/modern-identity-crisis.md)
 - [Not Like Other Claudes](/not-like-other-claudes.md)
 - [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
-
-----
-
-Explore the [entire collection of articles](/site-map.md). 
-
-[Home](/home.md) | [About](/about.md) | [Contact](/contact-us.md)

@@ -81,9 +81,3 @@ Contributors will be acknowledged in the project unless they request anonymity. 
 ## Questions?
 
 If you have questions about contributing or wish to discuss potential contributions before submitting them, message on [Telegram](https://t.me/seanivore) or [X](https://x.com/seanivore).
-
-----
-
-Explore the [entire collection of articles](/site-map.md). 
-
-[Home](/home.md) | [About](/about.md) | [Contact](/contact-us.md)

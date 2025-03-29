@@ -44,9 +44,3 @@ Other series:
 - [Modern Identity Crisis](/modern-identity-crisis.md)
 - [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
 - [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
-
-----
-
-Explore the [entire collection of articles](/site-map.md). 
-
-[Home](/home.md) | [About](/about.md) | [Contact](/contact-us.md)

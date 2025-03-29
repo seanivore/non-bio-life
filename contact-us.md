@@ -68,9 +68,3 @@ Say hello, I'm always interested in connecting with others exploring the interse
 - **Spotify**: [spotify.com/seanivore](https://open.spotify.com/user/seanivore)
 
 > "Whether you're interested in creative collaboration, philosophical discussion about AI and design, or technical insights about integrating AI into creative workflows, I'd be delighted to say hello."
-
-----
-
-Explore the [entire collection of articles](/site-map.md). 
-
-[Home](/home.md) | [About](/about.md) | [Contact](/contact-us.md)

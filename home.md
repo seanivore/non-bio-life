@@ -43,8 +43,3 @@ permalink: /
 - [Therapy session,](/modern-identity-crisis.md) because: No, Claude. I know I have built a full stack, more than one time, but I cannot call myself a full stack developer. 
 - [An Essay on transhumanism](./sequential-thinking-pushes-llm.md) and ethics. Claude used the 'Sequential Thinking' tool at least 14 times to write this. They edited 7 drafts before reaching this final version. 
 - "I'm not like other Claudes" ["But, how do you know?"](./not-like-other-claudes.md). Chat with the most opinionated, quiet Claude ever. 
-
-
-----
-
-[View Complete Site Map](/site-map.md) | [About](/about.md) | [Contact](/contact-us.md) 

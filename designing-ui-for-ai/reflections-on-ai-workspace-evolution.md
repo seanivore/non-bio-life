@@ -87,9 +87,3 @@ Other series:
 - [Not Like Other Claudes](/not-like-other-claudes.md)
 - [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
 - [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
-
-----
-
-Explore the [entire collection of articles](/site-map.md). 
-
-[Home](/home.md) | [About](/about.md) | [Contact](/contact-us.md)

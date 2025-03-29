@@ -216,9 +216,3 @@ Other series:
 - [Modern Identity Crisis](/modern-identity-crisis.md)
 - [Not Like Other Claudes](/not-like-other-claudes.md)
 - [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
-
-----
-
-Explore the [entire collection of articles](/site-map.md). 
-
-[Home](/home.md) | [About](/about.md) | [Contact](/contact-us.md)
