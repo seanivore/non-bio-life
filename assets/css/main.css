@@ -41,11 +41,10 @@ body {
   background-color: var(--color-bg);
   margin: 0;
   padding: 0;
-  max-width: 1000px;
 }
 
 .container {
-  width: 90%;
+  width: 900px;
   max-width: var(--container-width);
   margin: 0 auto;
   padding: 1rem;
