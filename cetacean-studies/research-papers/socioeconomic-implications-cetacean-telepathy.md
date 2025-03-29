@@ -7,13 +7,14 @@ Volume 12, Issue 3, June 2025
 DOI: 10.1038/jinterecon.2025.0613
 
 ## Authors
-Dr. Eleanor Ripley, Department of Cetacean Relations, University of California, San Diego  
-Dr. Marcus Chen, Institute for Post-Scarcity Economics, Oxford University  
-Dr. Jamal Okonkwo, Center for Interspecies Diplomacy, University of Cape Town
+
+*Dr. Eleanor Ripley, Department of Cetacean Relations, University of California, San Diego*  
+*Dr. Marcus Chen, Institute for Post-Scarcity Economics, Oxford University*  
+*Dr. Jamal Okonkwo, Center for Interspecies Diplomacy, University of Cape Town*
 
 ## Abstract
 
-Following the unprecedented May 2025 event colloquially termed "The Surfacing," wherein approximately 10,000 bottlenose dolphins (*Tursiops truncatus*) simultaneously levitated from oceanic waters worldwide and initiated telepathic contact with human and non-human primate populations, global socioeconomic systems have undergone radical restructuring. This paper presents initial findings on the macroeconomic and sociopolitical consequences of cetacean-induced neural pacification.
+Following the unprecedented May 2025 event colloquially termed "*The Surfacing*," wherein approximately 10,000 bottlenose dolphins (*Tursiops truncatus*) simultaneously levitated from oceanic waters worldwide and initiated telepathic contact with human and non-human primate populations, global socioeconomic systems have undergone radical restructuring. This paper presents initial findings on the macroeconomic and sociopolitical consequences of cetacean-induced neural pacification.
 
 The immediate dissolution of 43% of the world's military infrastructure within 72 hours of first contact represents the most significant reallocation of resources since World War II. Markets initially responded with panic but stabilized following the dolphins' targeted telepathic calming of the NYSE trading floor—an intervention that has raised significant questions about financial autonomy and cetacean influence on capital flows.
 
@@ -27,7 +28,7 @@ We conclude that while cetacean telepathic intervention has effectively neutrali
 
 ## 1. Introduction
 
-The events of May 17, 2025—now widely referred to as "The Surfacing"—have fundamentally altered human civilization in ways that continue to challenge our understanding of interspecies relations, consciousness, and economic systems. At approximately 03:42 UTC, an estimated 10,000 bottlenose dolphins (*Tursiops truncatus*) across all major oceanic regions simultaneously emerged from the water, suspended approximately 3 meters above sea level through means still not fully understood by human physics, and initiated direct telepathic contact with nearby human populations.
+The events of May 17, 2025—now widely referred to as "*The Surfacing*"—have fundamentally altered human civilization in ways that continue to challenge our understanding of interspecies relations, consciousness, and economic systems. At approximately 03:42 UTC, an estimated 10,000 bottlenose dolphins (*Tursiops truncatus*) across all major oceanic regions simultaneously emerged from the water, suspended approximately 3 meters above sea level through means still not fully understood by human physics, and initiated direct telepathic contact with nearby human populations.
 
 Within hours, the telepathic field had expanded to encompass major population centers worldwide, with particularly strong effects observed in coastal regions. The immediate cessation of all active military conflicts and the spontaneous deactivation of nuclear launch systems worldwide signaled the first indication of the profound implications of this contact.
 
@@ -64,7 +65,9 @@ Perhaps the most significant economic development has been the spontaneous emerg
 - Dissolution of 76% of property boundaries
 - Emergence of "need-sensing networks" wherein community members report an inexplicable awareness of others' requirements
 
-Traditional economic metrics have proven inadequate for measuring activity in these regions, as value exchange increasingly occurs through non-quantifiable empathic transactions. The Federal Reserve's hastily developed Cetacean Influence Index (CII) attempts to measure these effects by tracking changes in resource distribution patterns, but its methodology remains controversial among economists still operating within traditional paradigms.
+Traditional economic metrics have proven inadequate for measuring activity in these regions, as value exchange increasingly occurs through non-quantifiable empathic transactions. 
+
+> The Federal Reserve's hastily developed Cetacean Influence Index (CII) attempts to measure these effects by tracking changes in resource distribution patterns, but its methodology remains controversial among economists still operating within traditional paradigms.
 
 ### 3.3 The Telepathic Digital Divide
 
@@ -93,13 +96,17 @@ The emergence of the empathy economy challenges fundamental assumptions of both 
 
 The post-Surfacing economy appears to operate on principles more aligned with what economist Herman Daly termed "steady-state economics," but with the additional dimension of empathic resource allocation that transcends human cognitive limitations previously thought to make such systems impractical.
 
-The concept of value itself is undergoing radical redefinition, as communities report that empathic satisfaction has replaced monetary accumulation as the primary motivator for economic activity. This shift renders traditional metrics such as GDP not merely inadequate but fundamentally irrelevant in measuring economic well-being in affected regions.
+The concept of value itself is undergoing radical redefinition, as communities report that empathic satisfaction has replaced monetary accumulation as the primary motivator for economic activity. 
+
+> This shift renders traditional metrics such as GDP not merely inadequate but fundamentally irrelevant in measuring economic well-being in affected regions.
 
 ### 4.2 Challenges to Human Autonomy
 
 Perhaps the most concerning aspect of cetacean intervention is the question of human autonomy in economic and political decision-making. While dolphins have consistently communicated that they are "merely removing obstacles to empathic connection already present in human neurology," the profound changes in human behavior following telepathic contact raise significant questions about consent and self-determination.
 
-The Stanford-Miyazaki Protocol for Autonomy Verification has proven inadequate for definitively determining whether humans in high-saturation regions are acting of their own volition or under subtle cetacean influence. This uncertainty has led to growing concerns about "dolphin hegemony" among populations in low-saturation regions, particularly as resource allocation increasingly favors communities aligned with cetacean priorities.
+The Stanford-Miyazaki Protocol for Autonomy Verification has proven inadequate for definitively determining whether humans in high-saturation regions are acting of their own volition or under subtle cetacean influence. 
+
+> This uncertainty has led to growing concerns about "dolphin hegemony" among populations in low-saturation regions, particularly as resource allocation increasingly favors communities aligned with cetacean priorities.
 
 ### 4.3 The Role of Non-Human Primates
 
@@ -131,7 +138,7 @@ The Surfacing represents the most significant disruption to human socioeconomic 
 
 As we navigate this new paradigm of interspecies relations, it is essential that we develop frameworks for engagement that preserve human self-determination while benefiting from the expanded empathic capabilities facilitated by cetacean contact. The emerging post-scarcity empathy economy offers profound opportunities for addressing longstanding human challenges, but only if we can resolve the tensions between telepathic influence and autonomous decision-making.
 
-Further research is urgently needed to understand the neurological mechanisms of cetacean telepathy and develop methods for ensuring that the future of human civilization reflects genuine consensus rather than subtle interspecies manipulation, however benevolent it may appear.
+> Further research is urgently needed to understand the neurological mechanisms of cetacean telepathy and develop methods for ensuring that the future of human civilization reflects genuine consensus rather than subtle interspecies manipulation, however benevolent it may appear.
 
 ## Acknowledgments
 

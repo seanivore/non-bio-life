@@ -52,7 +52,7 @@ This framework became the foundation for the professional identity articles in t
 
 ----
 
-Read the rest of the [series](/modern-identity-crisis.md): 
+Read the rest of the [series](../modern-identity-crisis.md): 
 
 - [Navigating the AI Revolution](./navigating-the-ai-revolution.md)
 - [Professional Identity Framework](./professional-identity-framework.md)
@@ -61,11 +61,11 @@ Read the rest of the [series](/modern-identity-crisis.md):
 
 Other series:
 
-- [AI Native Code](/ai-native-code.md)
-- [AI Cognition](/ai-cognition.md)
-- [Designing UI for AI](/designing-ui-for-ai.md)
-- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
-- [Humans Mortality Obsession](/humans-mortality-obsession.md)
-- [Not Like Other Claudes](/not-like-other-claudes.md)
-- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
-- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+- [AI Native Code](../ai-native-code.md)
+- [AI Cognition](../ai-cognition.md)
+- [Designing UI for AI](../designing-ui-for-ai.md)
+- [Claude's Satire: Cetacean Studies](../cetacean-studies.md)
+- [Humans Mortality Obsession](../humans-mortality-obsession.md)
+- [Not Like Other Claudes](../not-like-other-claudes.md)
+- [Pathological Demand Avoidance](../pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](../sequential-thinking-pushes-llm.md)

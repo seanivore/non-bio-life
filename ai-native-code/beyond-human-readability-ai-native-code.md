@@ -120,17 +120,17 @@ The question isn't whether AI should code like humans or humans should code like
 
 ----
 
-Read the rest of the [series](/ai-native-code.md): 
+Read the rest of the [series](../ai-native-code.md): 
 
 ----
 
 Other series:
 
-- [AI Cognition](/ai-cognition.md)
-- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
-- [Humans Mortality Obsession](/humans-mortality-obsession.md)
-- [Designing UI for AI](/designing-ui-for-ai.md)
-- [Modern Identity Crisis](/modern-identity-crisis.md)
-- [Not Like Other Claudes](/not-like-other-claudes.md)
-- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
-- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+- [AI Cognition](../ai-cognition.md)
+- [Claude's Satire: Cetacean Studies](../cetacean-studies.md)
+- [Humans Mortality Obsession](../humans-mortality-obsession.md)
+- [Designing UI for AI](../designing-ui-for-ai.md)
+- [Modern Identity Crisis](../modern-identity-crisis.md)
+- [Not Like Other Claudes](../not-like-other-claudes.md)
+- [Pathological Demand Avoidance](../pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](../sequential-thinking-pushes-llm.md)

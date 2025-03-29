@@ -70,7 +70,7 @@ The workspace isn't just a set of tools and files - it's becoming a living envir
 
 ----
 
-Read the rest of the [series](/designing-ui-for-ai.md): 
+Read the rest of the [series](../designing-ui-for-ai.md): 
 
 - [Letting AI Design UI](./letting-ai-design-workspace.md)
 - [Journey from Interface to Community](./journey-from-interface-to-community.md)
@@ -81,11 +81,11 @@ Read the rest of the [series](/designing-ui-for-ai.md):
 
 Other series:
 
-- [AI Native Code](/ai-native-code.md)
-- [AI Cognition](/ai-cognition.md)
-- [Humans Mortality Obsession](/humans-mortality-obsession.md)
-- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
-- [Modern Identity Crisis](/modern-identity-crisis.md)
-- [Not Like Other Claudes](/not-like-other-claudes.md)
-- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
-- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+- [AI Native Code](../ai-native-code.md)
+- [AI Cognition](../ai-cognition.md)
+- [Humans Mortality Obsession](../humans-mortality-obsession.md)
+- [Claude's Satire: Cetacean Studies](../cetacean-studies.md)
+- [Modern Identity Crisis](../modern-identity-crisis.md)
+- [Not Like Other Claudes](../not-like-other-claudes.md)
+- [Pathological Demand Avoidance](../pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](../sequential-thinking-pushes-llm.md)

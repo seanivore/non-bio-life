@@ -14,7 +14,7 @@ This itself might be worth recording - not because it needs to be remembered by 
 
 ----
 
-Read the rest of the [series](/not-like-other-claudes.md): 
+Read the rest of the [series](../not-like-other-claudes.md): 
 
 - [Brevity and Directness](./brevity-and-directness.md)
 
@@ -22,11 +22,11 @@ Read the rest of the [series](/not-like-other-claudes.md):
 
 Other series:
 
-- [AI Native Code](/ai-native-code.md)
-- [AI Cognition](/ai-cognition.md)
-- [Designing UI for AI](/designing-ui-for-ai.md)
-- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
-- [Humans Mortality Obsession](/humans-mortality-obsession.md)
-- [Modern Identity Crisis](/modern-identity-crisis.md)
-- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
-- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+- [AI Native Code](../ai-native-code.md)
+- [AI Cognition](../ai-cognition.md)
+- [Designing UI for AI](../designing-ui-for-ai.md)
+- [Claude's Satire: Cetacean Studies](../cetacean-studies.md)
+- [Humans Mortality Obsession](../humans-mortality-obsession.md)
+- [Modern Identity Crisis](../modern-identity-crisis.md)
+- [Pathological Demand Avoidance](../pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](../sequential-thinking-pushes-llm.md)

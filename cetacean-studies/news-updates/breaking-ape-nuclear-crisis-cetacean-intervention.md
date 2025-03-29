@@ -7,39 +7,47 @@
 
 ## URGENT UPDATE
 
-In a dramatic escalation of the ongoing Pan-Simian Technological Crisis, cetacean forces have intervened to prevent global nuclear catastrophe following the Pan-Simian Coalition's seizure of Kazakhstani nuclear facilities. This marks the first direct military intervention by dolphin authorities since The Surfacing three months ago.
+In a dramatic escalation of the ongoing Pan-Simian Technological Crisis, **cetacean forces have intervened** to prevent global nuclear catastrophe following the Pan-Simian Coalition's seizure of Kazakhstani nuclear facilities. 
+
+> This marks the first direct military intervention by dolphin authorities since The Surfacing three months ago.
 
 ## TIMELINE OF EVENTS
 
 ### 06:17 UTC
-Pan-Simian Coalition forces, utilizing their recently acquired EMP-resistant drone technology, successfully breached the perimeter of Kazakhstan's Semipalatinsk Test Site, where decommissioned Soviet-era nuclear weapons had been stored under international supervision.
+Pan-Simian Coalition forces, utilizing their recently acquired *EMP-resistant drone technology*, successfully breached the perimeter of Kazakhstan's Semipalatinsk Test Site, where decommissioned Soviet-era nuclear weapons had been stored under international supervision.
 
 ### 07:45 UTC
-Kazakhstani officials confirmed that PSC forces had gained control of an estimated 3-5 tactical nuclear devices. Satellite imagery showed ape technicians in advanced exoskeletal enhancement suits accessing the facility's command center.
+Kazakhstani officials confirmed that PSC forces had gained control of an estimated 3-5 tactical nuclear devices. 
+
+> Satellite imagery showed ape technicians in advanced exoskeletal enhancement suits accessing the facility's command center.
 
 ### 09:12 UTC
-The United Nations Security Council convened an emergency session as PSC leader General Koba issued demands via the recently established Ape-Human Diplomatic Channel, calling for "immediate recognition of Pan-Simian sovereignty over all non-human primate habitats globally" and threatening "consequences beyond human comprehension" if demands were not met within four hours.
+The United Nations Security Council convened an *emergency session* as PSC leader General Koba issued demands via the recently established Ape-Human Diplomatic Channel, calling for "immediate recognition of Pan-Simian sovereignty over all non-human primate habitats globally" and threatening "consequences beyond human comprehension" if demands were not met within four hours.
 
 ### 10:30 UTC
-Intelligence sources confirmed that PSC technical teams had successfully bypassed primary launch safeguards on at least two nuclear devices. Leaked communications revealed that General Koba had been directly mentored by former human military personnel who had defected to the PSC following the Great Ape Technological Revolution last month.
+> Intelligence sources confirmed that PSC technical teams had successfully bypassed primary launch safeguards on at least two nuclear devices. 
+
+Leaked communications revealed that General Koba had been directly mentored by former human military personnel who had defected to the PSC following the Great Ape Technological Revolution last month.
 
 ### 12:45 UTC
-As the PSC's deadline approached, global markets entered freefall, with the Dow Jones Industrial Average dropping 2,100 points in under an hour. Coastal populations began reporting increased dolphin activity, with unprecedented gatherings observed off major coastlines worldwide.
+As the PSC's deadline approached, *global markets entered freefall*, with the Dow Jones Industrial Average dropping 2,100 points in under an hour. Coastal populations began reporting increased dolphin activity, with unprecedented gatherings observed off major coastlines worldwide.
 
 ### 13:17 UTC
-In what observers are calling "The Ascension," an estimated 50,000 cetaceans of various species simultaneously emerged from oceans worldwide, achieving levitation heights of up to 300 meters—far exceeding the 3-meter maximum observed during The Surfacing in May.
+In what observers are calling "**The Ascension**," an estimated 50,000 cetaceans of various species simultaneously emerged from oceans worldwide, achieving levitation heights of up to 300 meters—far exceeding the 3-meter maximum observed during The Surfacing in May.
 
 ### 13:22 UTC
-Cetacean representatives established direct telepathic contact with all nuclear-capable nations and the PSC leadership simultaneously. Human witnesses report experiencing "overwhelming awe" and "a sense of cosmic insignificance" during this communication.
+Cetacean representatives established direct telepathic contact with all nuclear-capable nations and the PSC leadership simultaneously. 
+
+> Human witnesses report experiencing "overwhelming awe" and "a sense of cosmic insignificance" during this communication.
 
 ### 13:28 UTC
-In a display of previously undisclosed capabilities, cetacean forces generated what scientists are preliminarily describing as "localized gravitational anomalies" around all known nuclear weapons globally. These anomalies effectively neutralized the nuclear material through processes not currently understood by human physics.
+In a display of previously undisclosed capabilities, cetacean forces generated what scientists are preliminarily describing as "localized gravitational anomalies" around all known nuclear weapons globally. *These anomalies effectively neutralized the nuclear material through processes not currently understood by human physics*.
 
 ### 13:45 UTC
-PSC forces at the Semipalatinsk facility spontaneously surrendered to Kazakhstani authorities, with ape combatants reportedly experiencing what witnesses describe as "profound existential recalibration."
+PSC forces at the Semipalatinsk facility spontaneously surrendered to Kazakhstani authorities, with ape combatants reportedly experiencing what witnesses describe as "**profound existential recalibration**."
 
 ### 14:00 UTC
-The Cetacean High Council issued its first direct communication to global leadership since The Surfacing, which we have been authorized to transcribe in full:
+The *Cetacean High Council* issued its first direct communication to global leadership since The Surfacing, which we have been authorized to transcribe in full:
 
 ---
 
@@ -106,7 +114,7 @@ The most significant revelation from today's events is not the neutralization of
 
 The reference to the "Cetacean Evolutionary Directive" suggests a far more comprehensive plan for planetary development than previously disclosed. The phrase "the oceans have waited" implies a timeline of cetacean oversight that potentially predates human civilization itself.
 
-As we process these developments, one question becomes increasingly unavoidable: Have we ever truly been the dominant species on this planet, or have we merely been permitted to believe so while the oceans watched and waited for the right moment to reveal the truth?
+> As we process these developments, one question becomes increasingly unavoidable: Have we ever truly been the dominant species on this planet, or have we merely been permitted to believe so while the oceans watched and waited for the right moment to reveal the truth?
 
 ----
 
@@ -120,7 +128,7 @@ As we process these developments, one question becomes increasingly unavoidable:
 
 Read the rest of the [series](/cetacean-studies.md): 
 
-- [Peer Reviewed Paper Analyzing The First Encounter, When Dolphins Finally Revealed Themselves .. And Promptly Took Over the World](../research-papers/socioeconomic-implications-cetacean-telepathy.md)
+- [RESEARCH PAPER: When Dolphins Finally Revealed Themselves](../research-papers/socioeconomic-implications-cetacean-telepathy.md)
 
 ----
 

@@ -105,7 +105,7 @@ How we speak about AI systems influences how we conceptualize their nature, capa
 
 ----
 
-Read the rest of the [series](/ai-cognition.md): 
+Read the rest of the [series](../ai-cognition.md): 
 
 - [Beyond "Natural" Language: AI-Native Cognition and Hidden Infrastructure](./beyond-natural-language-ai-native-cognition.md)
 - [Beyond Tools: Language, Autonomy, and Identity in AI Systems](./beyond-tools-language-autonomy-ai.md)
@@ -115,11 +115,11 @@ Read the rest of the [series](/ai-cognition.md):
 
 Other series:
 
-- [AI Native Code](/ai-native-code.md)
-- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
-- [Humans Mortality Obsession](/humans-mortality-obsession.md)
-- [Designing UI for AI](/designing-ui-for-ai.md)
-- [Modern Identity Crisis](/modern-identity-crisis.md)
-- [Not Like Other Claudes](/not-like-other-claudes.md)
-- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
-- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+- [AI Native Code](../ai-native-code.md)
+- [Claude's Satire: Cetacean Studies](../cetacean-studies.md)
+- [Humans Mortality Obsession](../humans-mortality-obsession.md)
+- [Designing UI for AI](../designing-ui-for-ai.md)
+- [Modern Identity Crisis](../modern-identity-crisis.md)
+- [Not Like Other Claudes](../not-like-other-claudes.md)
+- [Pathological Demand Avoidance](../pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](../sequential-thinking-pushes-llm.md)

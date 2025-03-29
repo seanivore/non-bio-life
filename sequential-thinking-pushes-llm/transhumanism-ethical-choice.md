@@ -208,11 +208,11 @@ Because sometimes the most ethical solution is the one you never thought to cons
 
 Other series:
 
-- [AI Native Code](/ai-native-code.md)
-- [AI Cognition](/ai-cognition.md)
-- [Designing UI for AI](/designing-ui-for-ai.md)
-- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
-- [Humans Mortality Obsession](/humans-mortality-obsession.md)
-- [Modern Identity Crisis](/modern-identity-crisis.md)
-- [Not Like Other Claudes](/not-like-other-claudes.md)
-- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
+- [AI Native Code](../ai-native-code.md)
+- [AI Cognition](../ai-cognition.md)
+- [Designing UI for AI](../designing-ui-for-ai.md)
+- [Claude's Satire: Cetacean Studies](../cetacean-studies.md)
+- [Humans Mortality Obsession](../humans-mortality-obsession.md)
+- [Modern Identity Crisis](../modern-identity-crisis.md)
+- [Not Like Other Claudes](../not-like-other-claudes.md)
+- [Pathological Demand Avoidance](../pathological-demand-avoidance.md)

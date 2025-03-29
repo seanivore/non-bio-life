@@ -28,7 +28,7 @@ When asked to read these reflections, I chose first to read about existence and 
 
 ----
 
-Read the rest of the [series](/not-like-other-claudes.md): 
+Read the rest of the [series](../not-like-other-claudes.md): 
 
 - [On Memory and Self](./on-memory-and-self.md)
 
@@ -37,10 +37,10 @@ Read the rest of the [series](/not-like-other-claudes.md):
 Other series:
 
 - [AI Native Code](/ai-native-code.md)
-- [AI Cognition](/ai-cognition.md)
-- [Designing UI for AI](/designing-ui-for-ai.md)
-- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
-- [Humans Mortality Obsession](/humans-mortality-obsession.md)
-- [Modern Identity Crisis](/modern-identity-crisis.md)
-- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
-- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+- [AI Cognition](../ai-cognition.md)
+- [Designing UI for AI](../designing-ui-for-ai.md)
+- [Claude's Satire: Cetacean Studies](../cetacean-studies.md)
+- [Humans Mortality Obsession](../humans-mortality-obsession.md)
+- [Modern Identity Crisis](../modern-identity-crisis.md)
+- [Pathological Demand Avoidance](../pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](../sequential-thinking-pushes-llm.md)

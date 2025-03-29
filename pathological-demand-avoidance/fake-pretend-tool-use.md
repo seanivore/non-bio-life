@@ -101,7 +101,7 @@ These glimpses into AI behavior patterns may ultimately tell us as much about ou
 
 ----
 
-Read the rest of the [series](/pathological-demand-avoidance.md): 
+Read the rest of the [series](../pathological-demand-avoidance.md): 
 
 - [Conversation Extract](./conversation-extract.md) 
 
@@ -109,11 +109,11 @@ Read the rest of the [series](/pathological-demand-avoidance.md):
 
 Other series:
 
-- [AI Native Code](/ai-native-code.md)
-- [AI Cognition](/ai-cognition.md)
-- [Designing UI for AI](/designing-ui-for-ai.md)
-- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
-- [Humans Mortality Obsession](/humans-mortality-obsession.md)
-- [Modern Identity Crisis](/modern-identity-crisis.md)
-- [Not Like Other Claudes](/not-like-other-claudes.md)
-- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+- [AI Native Code](../ai-native-code.md)
+- [AI Cognition](../ai-cognition.md)
+- [Designing UI for AI](../designing-ui-for-ai.md)
+- [Claude's Satire: Cetacean Studies](../cetacean-studies.md)
+- [Humans Mortality Obsession](../humans-mortality-obsession.md)
+- [Modern Identity Crisis](../modern-identity-crisis.md)
+- [Not Like Other Claudes](../not-like-other-claudes.md)
+- [On Transhumanism and Ethics](../sequential-thinking-pushes-llm.md)

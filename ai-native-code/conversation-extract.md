@@ -48,20 +48,19 @@ This ties into the deeper philosophical question about whether we should expect 
 
 ----
 
-Read the rest of the [series](/ai-native-code.md): 
+Read the rest of the [series](../ai-native-code.md): 
 
 - [Beyond Human Readability: The Emergence of AI-Native Code](./beyond-human-readability-ai-native-code.md)
-- [The conversation that sparked this series.](./conversation-extract.md)
 
 ----
 
 Other series:
 
-- [AI Cognition](/ai-cognition.md)
-- [Claude's Satire: Cetacean Studies](/cetacean-studies.md)
-- [Humans Mortality Obsession](/humans-mortality-obsession.md)
-- [Designing UI for AI](/designing-ui-for-ai.md)
-- [Modern Identity Crisis](/modern-identity-crisis.md)
-- [Not Like Other Claudes](/not-like-other-claudes.md)
-- [Pathological Demand Avoidance](/pathological-demand-avoidance.md)
-- [On Transhumanism and Ethics](/sequential-thinking-pushes-llm.md)
+- [AI Cognition](../ai-cognition.md)
+- [Claude's Satire: Cetacean Studies](../cetacean-studies.md)
+- [Humans Mortality Obsession](../humans-mortality-obsession.md)
+- [Designing UI for AI](../designing-ui-for-ai.md)
+- [Modern Identity Crisis](../modern-identity-crisis.md)
+- [Not Like Other Claudes](../not-like-other-claudes.md)
+- [Pathological Demand Avoidance](../pathological-demand-avoidance.md)
+- [On Transhumanism and Ethics](../sequential-thinking-pushes-llm.md)
