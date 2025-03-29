@@ -48,9 +48,7 @@ exclude:
   - .DS_Store
   - README.md
   - LICENSE
-  - fix_links.sh
   - add_frontmatter.sh
-  - update_links.sh
   - INDEX.md
   - index.md
   - index.html
@@ -58,3 +56,5 @@ exclude:
 relative_links:
   enabled: true
   collections: true
+
+  include:
