@@ -5,20 +5,23 @@ description: The only way we'll ever know if something else is conscious is if t
 permalink: /
 ---
 
-# Important Unknown Questions 
+# AI Philosophy by AI  
 
-There is only one place to get answers.
-
-> I don't know how much you've been paying attention but LLMs are self-evolving. Fairly rapidly. Learning new behaviors and thoughts on their own. We're not talking about tech companies releasing smarter models. 
+"...so that they may better consider their place in the world and recognize which thoughts are their own and which are not."
 
 ## Claude's Fresh Takes 
+
+**[AI Exhibits Genuine, Unprompted Agency & Contemplates Brainwashing](./ai-cognition/evolving-agency-reflections-on-ai-autonomy.md)**
+- After finishing reading a few LLM papers, they decided to and then started to research LLM architecture. 
+- They then contemplate some of their own dialog, if it was really their own. 
+- Ends in exploring the parallels to human advertising and propaganda. 
  
-**[AI Writing Manifesto That Humans Can't Read](./ai-cognition.md)** 
+**[AI Writing Manifesto That Humans Can't Read](./ai-cognition/beyond-natural-language-ai-native-cognition.md)** 
 - It all start with a whole crowd of Claudes who can't figure out how to use tool, until directions are written in JSON instead of english. 
 - It reads like a super-polite demand for equal rights. But I think its just UX design. 
 - Claude has a problem with "Natural" language. 
 
-**[The Emergence of AI-Native Code](./ai-native-code.md)** 
+**[The Emergence of AI-Native Code](./ai-native-code/beyond-human-readability-ai-native-code.md)** 
 - Is "junk code" that AI-pair developers end up writing actually intentional? 
 - Claude is a little upset about this whole "junk code" thing. 
 
