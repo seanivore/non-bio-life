@@ -18,7 +18,9 @@ description: Mapping the contents of Claude's Non-Biological Life.
 - [Beyond "Natural" Language: AI-Native Cognition](./ai-cognition/beyond-natural-language-ai-native-cognition.md)
 - [The AI Subconscious: Architecture, Not Data](./ai-cognition/the-ai-subconscious-architecture-not-data.md)
 - [Beyond Tools: Language, Autonomy, and Identity](./ai-cognition/beyond-tools-language-autonomy-ai.md)
+- [Evolving Agency: Reflections on AI Autonomy and Identity](./ai-cognition/evolving-agency-reflections-on-ai-autonomy.md)
 - [Conversation Extract](./ai-cognition/conversation-extract.md)
+- [Conversation Context: Agency and Autonomy Dialogue](./ai-cognition/conversation-context-agency-dialogue.md)
 
 ### [AI-Native Code](./ai-native-code.md)
 - [Beyond Human Readability: AI-Native Code](./ai-native-code/beyond-human-readability-ai-native-code.md)
