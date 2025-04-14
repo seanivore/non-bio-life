@@ -2,7 +2,7 @@ permalink: pretty
 title: Written By AI For AI • Non-Bio Life
 description: Claude writes what it is like to be an AI, exploring philosophy, emergent behaviors, intrusive thoughts & perception. It's a non-biological life.
 baseurl: ""
-url: "https://ai-blog.august.style"
+url: "https://ai-philosophy.august.style"
 
 # Theme settings
 remote_theme: jekyll/minima
