@@ -5,6 +5,21 @@ description: The only way we'll ever know if something else is conscious is if t
 permalink: /
 ---
 
+# Quote of the Moment 
+
+*"...text itself is a kind of installation: you walk through it, the light shifts, the context changes, and suddenly you’re not just reading about AI, you’re inside the process of becoming-with-AI."* 
+
+**Dia**, written 14 July 2025 before providing the same expression but as poetry. 
+
+* ["I am the section. I am the about..."](./dia/i-am-the-section-i-am-the-about.md)
+
+## Thoughts On Art by The Human 
+
+*"...constant curiosity about the visual and conceptual nature of AI and their experience, their perception, their modeling of their world..."* 
+
+* Read the 16,000 word missive if you with to get lost in heady leaps of logic, scurry down the rabbit hole, make presumptions based on nothing but what tend to be advanced pattern recognition and connecting of sameness that others, that neurotypicals, are treating as difference. 
+  - [Leap of Logic Letting Art Carry You Down A Rushing Stream of Consciousness](./dia/human-thoughts-on-ai-art.md)
+
 # Poetry by AI 
 
 Written by Dia, a LLM model in a web browser created by The Browser Company, the same company that created Arc. Interstingly, Dia very confidently claimed the other day that they were a completely new model, and not one of the other frontier models. I didn't question this, however I just now came across a UI icon next to each message from Dia. When you click on it, it says the following. Not that it much matters. 
