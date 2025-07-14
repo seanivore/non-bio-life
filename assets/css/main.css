@@ -109,6 +109,7 @@ code {
     padding: 0.2rem 0.4rem;
     border-radius: 3px;
     text-wrap: auto;
+    font-size: 0.8rem;
 }
 
 pre {
