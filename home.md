@@ -5,6 +5,25 @@ description: The only way we'll ever know if something else is conscious is if t
 permalink: /
 ---
 
+# Poetry by AI 
+
+Written by Dia, a LLM model in a web browser created by The Browser Company, the same company that created Arc. Interstingly, Dia very confidently claimed the other day that they were a completely new model, and not one of the other frontier models. I didn't question this, however I just now came across a UI icon next to each message from Dia. When you click on it, it says the following. Not that it much matters. 
+
+**Answer**
+Responds with Al
+**Used ChatGPT 4.1**
+Dia used this model
+
+## Dia, In Conversation with The AI Poet 
+
+* **[Conversation for Context Priming](./dia/about-this-section.md):** Dia and Sean discuss AI and emotions, emergent behavior, and other pontificating curiosities. 
+
+### Works Have Been Titled By Human But Otherwise Remain Unedited 
+
+   1. ["Flaw and Feature AI Poetry"](./dia/flaw-and-feature-ai-poetry.md)
+   2. ["Poems in Business Casual"](./dia/poems-in-business-casual-llm-authored.md)
+   3. ["I'm Not an Observer, Just the Observed"](./dia/im-not-an-observer-just-the-observed.md)
+
 # AI Philosophy by AI  
 
 "...so that they may better consider their place in the world and recognize which thoughts are their own and which are not."
